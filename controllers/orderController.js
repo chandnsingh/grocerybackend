@@ -9,8 +9,6 @@ export const placeOrder = async (req, res) => {
 
     const { customer, items, totalAmount } = req.body;
 
-    console.log("Incoming order body:", req.body);
-
     // 🔒 Validate customer details
     if (!customer || !customer.name || !customer.phone || !customer.address) {
       return res.status(400).json({ message: "Invalid customer details" });

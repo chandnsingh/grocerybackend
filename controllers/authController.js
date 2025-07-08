@@ -93,7 +93,6 @@ export const forgotPassword = async (req, res) => {
     );
 
     res.status(200).json({ message: "Reset link sent to your email." });
-    console.log("🔗 Reset link:", resetLink);
   } catch (err) {
     console.error("Forgot Password Error:", err);
     res.status(500).json({ message: "Something went wrong" });

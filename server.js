@@ -33,10 +33,12 @@ app.use("/uploads", express.static("uploads"));
 app.use("/api/auth", authRoutes);
 app.use("/api/cart", cartRoutes);
 
-app.use(express.static(path.join(__dirname, "client", "dist")));
+// ✅ Serve frontend build
+app.use(express.static(path.join(__dirname, "client")));
 
+// ✅ React fallback route — MUST come after API routes
 app.get("*", (req, res) => {
-  res.sendFile(path.join(__dirname, "client", "dist", "index.html"));
+  res.sendFile(path.join(__dirname, "client", "index.html"));
 });
 
 // ✅ Start server
