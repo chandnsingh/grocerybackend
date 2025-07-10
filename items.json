@@ -2,612 +2,2562 @@
   {
     "name": "Tomato",
     "category": "vegetables",
-    "price": 30,
-    "unit": "kg",
-    "options": ["500g", "1kg", "2kg"],
     "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=450/da/cms-assets/cms/product/4e45920b-2735-4264-86e9-be98453147ea.jpg?ts=1747734128",
     "inStock": true,
-    "discount": "20%",
-    "description": "Fresh and juicy tomatoes.",
+    "description": "Our farm-fresh, vibrant red tomatoes are a kitchen essential, perfect for adding a burst of sweet and tangy flavor to your culinary creations. Whether you're crafting a rich pasta sauce, a refreshing salad, or a hearty curry, these juicy tomatoes promise superior taste and texture, elevating every dish with their natural goodness and robust appeal.",
+    "rating": 4.2,
     "reviews": 28,
-    "rating": 4.2
+    "variants": [
+      {
+        "unit": "500g",
+        "price": 15,
+        "discount": "20%"
+      },
+      {
+        "unit": "1kg",
+        "price": 30,
+        "discount": "20%"
+      },
+      {
+        "unit": "2kg",
+        "price": 60,
+        "discount": "20%"
+      }
+    ]
   },
   {
     "name": "Potato",
     "category": "vegetables",
-    "price": 25,
-    "unit": "kg",
-    "options": ["500g", "1kg", "3kg"],
     "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/2d053159-1d80-479e-9d0a-8c76d37c9af4.jpg?ts=1744719578",
     "inStock": true,
-    "description": "Versatile and earthy potatoes.",
-    "discount": "20%",
+    "description": "These versatile and earthy potatoes are sourced from the best fields, offering a firm texture and rich flavor. Ideal for a wide range of dishes, from creamy mashed potatoes and crispy fries to wholesome curries and hearty roasts, they are a fundamental ingredient for any home cook. Their consistent quality ensures delicious results every time you cook.",
+    "rating": 4.0,
     "reviews": 35,
-    "rating": 4.0
+    "variants": [
+      {
+        "unit": "500g",
+        "price": 13,
+        "discount": "20%"
+      },
+      {
+        "unit": "1kg",
+        "price": 25,
+        "discount": "20%"
+      },
+      {
+        "unit": "3kg",
+        "price": 75,
+        "discount": "20%"
+      }
+    ]
   },
   {
     "name": "Onion",
     "category": "vegetables",
-    "price": 35,
-    "unit": "kg",
-    "options": ["500g", "1kg", "2kg"],
     "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/e744e23d-f697-419f-a523-3f94e5ba5932.jpg?ts=1750934052",
     "inStock": true,
-    "description": "Pungent and flavorful onions.",
-    "discount": "19%",
+    "description": "Our pungent and flavorful onions are an indispensable ingredient, providing a foundational aroma and taste to countless recipes. Perfect for sautéing, caramelizing, or adding a sharp bite to salads and curries, these fresh onions are selected for their quality and robust character. They ensure a depth of flavor that enhances any savory dish you prepare.",
+    "rating": 4.3,
     "reviews": 42,
-    "rating": 4.3
+    "variants": [
+      {
+        "unit": "500g",
+        "price": 18,
+        "discount": "19%"
+      },
+      {
+        "unit": "1kg",
+        "price": 35,
+        "discount": "19%"
+      },
+      {
+        "unit": "2kg",
+        "price": 70,
+        "discount": "19%"
+      }
+    ]
   },
   {
     "name": "Cauliflower",
     "category": "vegetables",
-    "price": 45,
-    "unit": "piece",
-    "options": ["1 piece", "2 pieces", "3 pieces"],
     "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/740d071d-9207-4595-a419-00756988f1f2.jpg?ts=1745410351",
     "inStock": true,
-    "description": "Fresh, locally-grown cauliflower.",
-    "discount": "25%",
+    "description": "Sourced fresh from local farms, our cauliflower is a versatile and nutritious vegetable, perfect for a variety of culinary uses. Its mild, slightly nutty flavor and tender florets make it ideal for roasting, steaming, mashing, or adding to curries and stir-fries. This wholesome vegetable offers a delightful texture and absorbs flavors beautifully, making it a healthy and delicious addition to any meal.",
+    "rating": 3.9,
     "reviews": 19,
-    "rating": 3.9
+    "variants": [
+      {
+        "unit": "1 piece",
+        "price": 45,
+        "discount": "25%"
+      },
+      {
+        "unit": "2 pieces",
+        "price": 90,
+        "discount": "25%"
+      },
+      {
+        "unit": "3 pieces",
+        "price": 135,
+        "discount": "25%"
+      }
+    ]
   },
   {
     "name": "Cabbage",
     "category": "vegetables",
-    "price": 35,
-    "unit": "piece",
-    "options": ["1 piece", "2 pieces", "3 pieces"],
     "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/9a806b4f-1793-465f-a3ae-b3b221acbfb9.jpg?ts=1711016570",
     "inStock": true,
-    "description": "Leafy and crunchy green cabbage.",
-    "discount": "20%",
+    "description": "Our leafy and crunchy green cabbage is a refreshing addition to your kitchen, offering a crisp texture and a subtle, earthy flavor. Perfect for making fresh salads, delicious coleslaws, stir-fries, or traditional Indian sabzis, this versatile vegetable is packed with nutrients and adds a delightful crunch to any dish. Enjoy its freshness and health benefits in your everyday meals.",
+    "rating": 4.1,
     "reviews": 23,
-    "rating": 4.1
+    "variants": [
+      {
+        "unit": "1 piece",
+        "price": 35,
+        "discount": "20%"
+      },
+      {
+        "unit": "2 pieces",
+        "price": 70,
+        "discount": "20%"
+      },
+      {
+        "unit": "3 pieces",
+        "price": 105,
+        "discount": "20%"
+      }
+    ]
   },
   {
     "name": "Carrot",
     "category": "vegetables",
-    "price": 40,
-    "unit": "kg",
-    "options": ["500g", "1kg", "2kg"],
     "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/assets/products/sliding_images/jpeg/0c1933a9-b8ba-411c-acef-5d32ec3c3860.jpg?ts=1713944180",
     "inStock": true,
-    "description": "Crunchy and sweet carrots.",
-    "discount": "20%",
+    "description": "Discover the vibrant color and natural sweetness of our crunchy carrots, a wholesome and nutritious addition to your meals. Perfect for snacking, juicing, stir-fries, and classic Indian dishes like Gajar Halwa, these fresh carrots are rich in vitamins and offer a satisfying bite. Their delightful sweetness and crisp texture make them a favorite for both raw consumption and cooked preparations.",
+    "rating": 4.4,
     "reviews": 31,
-    "rating": 4.4
+    "variants": [
+      {
+        "unit": "500g",
+        "price": 20,
+        "discount": "20%"
+      },
+      {
+        "unit": "1kg",
+        "price": 40,
+        "discount": "20%"
+      },
+      {
+        "unit": "2kg",
+        "price": 80,
+        "discount": "20%"
+      }
+    ]
   },
   {
     "name": "Apple",
     "category": "fruits",
-    "price": 180,
-    "unit": "kg",
-    "options": ["500g", "1kg", "2kg"],
     "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/assets/products/sliding_images/jpeg/7d34583b-900c-45a4-bfb1-1f5a6cc963a2.jpg?ts=1711473224",
     "inStock": true,
-    "description": "Sweet and crispy apples.",
-    "discount": "19%",
+    "description": "Enjoy the refreshing taste of our sweet and crispy apples, hand-picked for their superior quality and delightful juiciness. These vibrant fruits are perfect for a healthy snack, adding to fruit salads, or baking into pies and crumbles. Rich in fiber and vitamins, our apples offer a satisfying crunch and natural sweetness, making them a delicious and wholesome choice for any time of day.",
+    "rating": 4.5,
     "reviews": 56,
-    "rating": 4.5
+    "variants": [
+      {
+        "unit": "500g",
+        "price": 90,
+        "discount": "19%"
+      },
+      {
+        "unit": "1kg",
+        "price": 180,
+        "discount": "19%"
+      },
+      {
+        "unit": "2kg",
+        "price": 360,
+        "discount": "19%"
+      }
+    ]
   },
   {
     "name": "Banana",
     "category": "fruits",
-    "price": 45,
-    "unit": "dozen",
-    "options": ["6 pcs", "12 pcs", "24 pcs"],
     "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/4e17db76-2404-49d6-8c0e-9e0b48552551.jpg?ts=1740114928",
     "inStock": true,
-    "description": "High-energy ripe bananas.",
-    "discount": "27%",
+    "description": "Fuel your day with our high-energy, perfectly ripe bananas, known for their creamy texture and naturally sweet taste. An excellent source of potassium and quick energy, these bananas are ideal for a grab-and-go snack, blending into smoothies, or adding to breakfast cereals. Enjoy their satisfying sweetness and nutritional benefits, making them a wholesome choice for all ages.",
+    "rating": 4.2,
     "reviews": 48,
-    "rating": 4.2
+    "variants": [
+      {
+        "unit": "6 pcs",
+        "price": 23,
+        "discount": "27%"
+      },
+      {
+        "unit": "12 pcs",
+        "price": 45,
+        "discount": "27%"
+      },
+      {
+        "unit": "24 pcs",
+        "price": 90,
+        "discount": "27%"
+      }
+    ]
   },
   {
     "name": "Orange",
     "category": "fruits",
-    "price": 60,
-    "unit": "kg",
-    "options": ["500g", "1kg", "2kg"],
     "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/assets/products/sliding_images/jpeg/26b5e48e-c7ac-4553-80a9-359a8f88a78a.jpg?ts=1711473134",
     "inStock": true,
-    "description": "Tangy and vitamin-C rich oranges.",
-    "discount": "20%",
+    "description": "Savor the tangy and vitamin-C rich flavor of our juicy oranges, hand-picked for their refreshing taste and bright citrus aroma. Perfect for juicing, snacking, or adding a zesty note to desserts and savory dishes, these oranges are a powerhouse of nutrition. Enjoy their refreshing burst of flavor and essential health benefits with every segment.",
+    "rating": 4.3,
     "reviews": 39,
-    "rating": 4.3
+    "variants": [
+      {
+        "unit": "500g",
+        "price": 30,
+        "discount": "20%"
+      },
+      {
+        "unit": "1kg",
+        "price": 60,
+        "discount": "20%"
+      },
+      {
+        "unit": "2kg",
+        "price": 120,
+        "discount": "20%"
+      }
+    ]
   },
   {
     "name": "Papaya",
     "category": "fruits",
-    "price": 40,
-    "unit": "piece",
-    "options": ["1 piece", "2 pieces", "3 pieces"],
     "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/c820bd35-141c-44e2-aa63-b6210382f106.jpg?ts=1734967015",
     "inStock": true,
-    "description": "Juicy and sweet tropical papaya.",
-    "discount": "18%",
+    "description": "Indulge in the tropical sweetness of our juicy papayas, known for their soft, buttery flesh and vibrant color. This delicious fruit is packed with digestive enzymes and vitamins, making it a healthy and refreshing choice. Enjoy it fresh as a breakfast item, in fruit salads, or blended into smoothies for a taste of the tropics and a boost of natural goodness.",
+    "rating": 3.8,
     "reviews": 22,
-    "rating": 3.8
+    "variants": [
+      {
+        "unit": "1 piece",
+        "price": 40,
+        "discount": "18%"
+      },
+      {
+        "unit": "2 pieces",
+        "price": 80,
+        "discount": "18%"
+      },
+      {
+        "unit": "3 pieces",
+        "price": 120,
+        "discount": "18%"
+      }
+    ]
   },
   {
     "name": "Grapes",
     "category": "fruits",
-    "price": 90,
-    "unit": "kg",
-    "options": ["500g", "1kg", "2kg"],
     "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/56396a2d-527c-4ff5-815b-4bbbed49d76b.jpg?ts=1747373999",
     "inStock": true,
-    "description": "Seedless and sweet grapes.",
-    "discount": "23%",
+    "description": "Delight in the sweet and refreshing burst of our seedless grapes, perfect for snacking, adding to fruit salads, or garnishing desserts. These juicy grapes are carefully selected for their crisp texture and natural sweetness, offering a healthy and satisfying treat. Enjoy them chilled for a refreshing bite that brightens any moment, a versatile fruit for all occasions.",
+    "rating": 4.1,
     "reviews": 45,
-    "rating": 4.1
+    "variants": [
+      {
+        "unit": "500g",
+        "price": 45,
+        "discount": "23%"
+      },
+      {
+        "unit": "1kg",
+        "price": 90,
+        "discount": "23%"
+      },
+      {
+        "unit": "2kg",
+        "price": 180,
+        "discount": "23%"
+      }
+    ]
   },
   {
     "name": "Toor Dal",
     "category": "dal",
-    "price": 130,
-    "unit": "kg",
-    "options": ["500g", "1kg", "5kg"],
     "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/assets/products/sliding_images/jpeg/4cfbfe25-56c4-46a3-b506-44f8e7e642d2.jpg?ts=1712825857",
     "inStock": true,
-    "description": "Protein-packed yellow dal.",
-    "discount": "14%",
+    "description": "Our protein-packed yellow Toor Dal is a staple in Indian households, known for its rich flavor and wholesome nutrition. Ideal for preparing traditional sambar, comforting dal fry, and a variety of lentil-based dishes, this dal cooks up quickly to a creamy consistency. It offers a hearty and satisfying meal, providing essential nutrients for a balanced diet.",
+    "rating": 4.4,
     "reviews": 38,
-    "rating": 4.4
+    "variants": [
+      {
+        "unit": "500g",
+        "price": 65,
+        "discount": "14%"
+      },
+      {
+        "unit": "1kg",
+        "price": 130,
+        "discount": "14%"
+      },
+      {
+        "unit": "5kg",
+        "price": 650,
+        "discount": "14%"
+      }
+    ]
   },
   {
     "name": "Moong Dal",
     "category": "dal",
-    "price": 110,
-    "unit": "kg",
-    "options": ["500g", "1kg", "5kg"],
     "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/b0ae7762-2d0f-4ce5-9962-ce83ebd9ba27.jpg?ts=1736609552",
     "inStock": true,
-    "description": "Light and easy-to-digest dal.",
-    "discount": "9%",
+    "description": "Our light and easy-to-digest Moong Dal is perfect for a comforting and nutritious meal. This versatile lentil is commonly used in khichdi, soups, and various dal preparations, offering a mild flavor and smooth texture when cooked. It's an excellent source of plant-based protein and dietary fiber, making it a wholesome and essential ingredient for healthy eating.",
+    "rating": 4.2,
     "reviews": 32,
-    "rating": 4.2
+    "variants": [
+      {
+        "unit": "500g",
+        "price": 55,
+        "discount": "9%"
+      },
+      {
+        "unit": "1kg",
+        "price": 110,
+        "discount": "9%"
+      },
+      {
+        "unit": "5kg",
+        "price": 550,
+        "discount": "9%"
+      }
+    ]
   },
   {
     "name": "Chana Dal",
     "category": "dal",
-    "price": 100,
-    "unit": "kg",
-    "options": ["500g", "1kg", "5kg"],
     "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/assets/products/sliding_images/jpeg/b5e9513b-2af3-4c31-a965-52600082faea.jpg?ts=1712825431",
     "inStock": true,
-    "description": "Nutty-flavored split chickpeas.",
-    "discount": "8%",
+    "description": "Our nutty-flavored Chana Dal, or split chickpeas, is a versatile and hearty lentil, perfect for a variety of traditional Indian dishes. It forms the base for delicious dals, curries, and even sweets like Besan Ladoo. Rich in protein and fiber, this dal offers a satisfying texture and a distinctive earthy taste, making it a fundamental ingredient in your pantry.",
+    "rating": 4.0,
     "reviews": 29,
-    "rating": 4.0
+    "variants": [
+      {
+        "unit": "500g",
+        "price": 50,
+        "discount": "8%"
+      },
+      {
+        "unit": "1kg",
+        "price": 100,
+        "discount": "8%"
+      },
+      {
+        "unit": "5kg",
+        "price": 500,
+        "discount": "8%"
+      }
+    ]
   },
   {
     "name": "Urad Dal",
     "category": "dal",
-    "price": 105,
-    "unit": "kg",
-    "options": ["500g", "1kg", "5kg"],
     "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/509e1ddb-0ee3-4f2d-aa6b-83c1dbb29951.jpg?ts=1749275430",
     "inStock": true,
-    "description": "Ideal for dosas and vadas.",
-    "discount": "10%",
+    "description": "Our premium Urad Dal, also known as black gram, is a staple for creating authentic South Indian delicacies like fluffy idlis, crispy dosas, and savory vadas. This versatile lentil offers a unique creamy texture and rich flavor when ground, forming the perfect batter for fermented dishes. It's a key ingredient for adding body and traditional taste to your culinary repertoire.",
+    "rating": 4.3,
     "reviews": 34,
-    "rating": 4.3
+    "variants": [
+      {
+        "unit": "500g",
+        "price": 53,
+        "discount": "10%"
+      },
+      {
+        "unit": "1kg",
+        "price": 105,
+        "discount": "10%"
+      },
+      {
+        "unit": "5kg",
+        "price": 525,
+        "discount": "10%"
+      }
+    ]
   },
   {
     "name": "Sunflower Oil",
     "category": "oil",
-    "price": 150,
-    "unit": "1L",
-    "options": ["500ml", "1L", "5L"],
     "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/2291c5fc-fe1c-41b4-b577-2445985bc52b.jpg?ts=1743144201",
     "inStock": true,
-    "description": "Heart-friendly cooking oil.",
-    "discount": "20%",
+    "description": "Our heart-friendly Sunflower Oil is a light and versatile cooking oil, perfect for everyday culinary needs. With its neutral taste and high smoke point, it's ideal for frying, sautéing, baking, and salad dressings without overpowering the natural flavors of your ingredients. This premium oil ensures healthier and delicious meals for your entire family.",
+    "rating": 4.5,
     "reviews": 52,
-    "rating": 4.5
+    "variants": [
+      {
+        "unit": "500ml",
+        "price": 75,
+        "discount": "20%"
+      },
+      {
+        "unit": "1L",
+        "price": 150,
+        "discount": "20%"
+      },
+      {
+        "unit": "5L",
+        "price": 750,
+        "discount": "20%"
+      }
+    ]
   },
   {
     "name": "Mustard Oil",
     "category": "oil",
-    "price": 140,
-    "unit": "1L",
-    "options": ["500ml", "1L", "5L"],
     "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/caeaa4ff-2a7e-4491-b3d7-73424d35d596.jpg?ts=1750410108",
     "inStock": true,
-    "description": "Strong and aromatic oil.",
-    "discount": "21%",
+    "description": "Experience the strong and aromatic flavor of our premium Mustard Oil, a traditional cooking oil widely used in Indian and Bengali cuisine. Its distinct pungent taste adds a unique depth to curries, pickles, and stir-fries. Rich in beneficial fats, this oil is perfect for enhancing the authentic flavors of your favorite regional dishes, providing a truly robust culinary experience.",
+    "rating": 4.2,
     "reviews": 47,
-    "rating": 4.2
+    "variants": [
+      {
+        "unit": "500ml",
+        "price": 70,
+        "discount": "21%"
+      },
+      {
+        "unit": "1L",
+        "price": 140,
+        "discount": "21%"
+      },
+      {
+        "unit": "5L",
+        "price": 700,
+        "discount": "21%"
+      }
+    ]
   },
   {
     "name": "Groundnut Oil",
     "category": "oil",
-    "price": 160,
-    "unit": "1L",
-    "options": ["500ml", "1L", "5L"],
     "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/501475a.jpg",
     "inStock": true,
-    "description": "Peanut-based cooking oil.",
-    "discount": "22%",
+    "description": "Our pure Groundnut Oil, extracted from fresh peanuts, is a popular cooking oil known for its mild flavor and versatility. Ideal for deep-frying, sautéing, and stir-frying, it imparts a subtle nutty aroma to your dishes without overwhelming other ingredients. This oil is a healthy choice for everyday cooking, ensuring crisp and delicious results every time.",
+    "rating": 4.3,
     "reviews": 41,
-    "rating": 4.3
+    "variants": [
+      {
+        "unit": "500ml",
+        "price": 80,
+        "discount": "22%"
+      },
+      {
+        "unit": "1L",
+        "price": 160,
+        "discount": "22%"
+      },
+      {
+        "unit": "5L",
+        "price": 800,
+        "discount": "22%"
+      }
+    ]
   },
   {
     "name": "Salt",
     "category": "essentials",
-    "price": 20,
-    "unit": "1kg",
-    "options": ["500g", "1kg", "5kg"],
     "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/167b98c4-9e70-4204-b618-fc3f29f16747.jpg?ts=1733299682",
     "inStock": true,
-    "description": "Refined iodized salt.",
-    "discount": "31%",
+    "description": "Our refined iodized salt is a kitchen essential, ensuring proper iodine intake for your family's health. With its fine crystals and consistent quality, it dissolves quickly and evenly, enhancing the flavor of all your culinary creations. From everyday cooking to seasoning, this salt provides the perfect balance of taste and essential nutrients for wholesome meals.",
+    "rating": 4.6,
     "reviews": 63,
-    "rating": 4.6
+    "variants": [
+      {
+        "unit": "500g",
+        "price": 10,
+        "discount": "31%"
+      },
+      {
+        "unit": "1kg",
+        "price": 20,
+        "discount": "31%"
+      },
+      {
+        "unit": "5kg",
+        "price": 100,
+        "discount": "31%"
+      }
+    ]
   },
   {
     "name": "Sugar",
     "category": "essentials",
-    "price": 40,
-    "unit": "1kg",
-    "options": ["500g", "1kg", "5kg"],
     "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/1f76cafc-a76d-44f1-b047-a216f01ac5d9.jpg?ts=1744367792",
     "inStock": true,
-    "description": "White crystal sugar for daily use.",
-    "discount": "20%",
+    "description": "Our premium white crystal sugar is perfect for all your sweetening needs, from beverages to desserts. Its fine granules dissolve easily, ensuring a smooth and consistent sweetness in your tea, coffee, and baked goods. This versatile kitchen essential provides the ideal balance of taste and purity, making every sweet moment delightful and perfectly balanced.",
+    "rating": 4.4,
     "reviews": 58,
-    "rating": 4.4
+    "variants": [
+      {
+        "unit": "500g",
+        "price": 20,
+        "discount": "20%"
+      },
+      {
+        "unit": "1kg",
+        "price": 40,
+        "discount": "20%"
+      },
+      {
+        "unit": "5kg",
+        "price": 200,
+        "discount": "20%"
+      }
+    ]
   },
   {
     "name": "Atta (Wheat Flour)",
     "category": "essentials",
-    "price": 200,
-    "unit": "5kg",
-    "options": ["1kg", "5kg", "10kg"],
     "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/9d1a40ed-43f7-4b68-8b28-d9d740838691.jpg?ts=1712825382",
     "inStock": true,
-    "description": "Whole wheat flour for chapatis.",
-    "discount": "20%",
+    "description": "Our whole wheat flour (Atta) is meticulously milled to perfection, ensuring soft, fluffy, and nutritious chapatis every time. Rich in fiber and essential nutrients, this staple flour is ideal for daily bread-making, parathas, and a variety of Indian flatbreads. Experience the authentic taste and wholesome goodness that makes it an indispensable part of your kitchen.",
+    "rating": 4.7,
     "reviews": 67,
-    "rating": 4.7
+    "variants": [
+      {
+        "unit": "1kg",
+        "price": 40,
+        "discount": "20%"
+      },
+      {
+        "unit": "5kg",
+        "price": 200,
+        "discount": "20%"
+      },
+      {
+        "unit": "10kg",
+        "price": 400,
+        "discount": "20%"
+      }
+    ]
   },
   {
     "name": "Rice",
     "category": "essentials",
-    "price": 60,
-    "unit": "kg",
-    "options": ["1kg", "5kg", "10kg"],
     "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=720/da/cms-assets/cms/product/50392127-6d0b-4364-8c61-f3b9404d927c.jpg?ts=1737006135",
     "inStock": true,
-    "description": "Long grain basmati rice.",
-    "discount": "15%",
+    "description": "Our premium long grain Basmati rice is known for its exquisite aroma and delicate, fluffy texture when cooked. Perfect for biryanis, pilafs, and as a side for curries, each grain separates beautifully, offering a truly gourmet dining experience. This high-quality rice promises to elevate your everyday meals and special occasions with its superior taste and fragrance.",
+    "rating": 4.8,
     "reviews": 72,
-    "rating": 4.8
+    "variants": [
+      {
+        "unit": "1kg",
+        "price": 60,
+        "discount": "15%"
+      },
+      {
+        "unit": "5kg",
+        "price": 300,
+        "discount": "15%"
+      },
+      {
+        "unit": "10kg",
+        "price": 600,
+        "discount": "15%"
+      }
+    ]
   },
   {
     "name": "Milk",
     "category": "dairy",
-    "price": 28,
-    "unit": "500ml",
-    "options": ["250ml", "500ml", "1L"],
     "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/5ee4441d-9109-48fa-9343-f5ce82b905a6.jpg?ts=1706182143",
     "inStock": true,
-    "description": "Pure and fresh cow milk.",
-    "discount": "17%",
+    "description": "Our pure and fresh cow milk is sourced from trusted dairies, ensuring wholesome goodness in every drop. Ideal for drinking, preparing tea and coffee, making desserts, or adding to your breakfast cereal, it’s packed with essential nutrients like calcium and protein. Enjoy the creamy taste and nourishing benefits of this daily essential, perfect for the entire family's well-being.",
+    "rating": 4.5,
     "reviews": 84,
-    "rating": 4.5
+    "variants": [
+      {
+        "unit": "250ml",
+        "price": 14,
+        "discount": "17%"
+      },
+      {
+        "unit": "500ml",
+        "price": 28,
+        "discount": "17%"
+      },
+      {
+        "unit": "1L",
+        "price": 56,
+        "discount": "17%"
+      }
+    ]
   },
   {
     "name": "Curd",
     "category": "dairy",
-    "price": 25,
-    "unit": "500g",
-    "options": ["250g", "500g", "1kg"],
     "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/images/products/sliding_image/329549a.jpg?ts=1690805806",
     "inStock": true,
-    "description": "Thick and creamy curd.",
-    "discount": "12%",
+    "description": "Our thick and creamy curd is made from fresh milk, offering a smooth texture and a delightful tangy flavor. Perfect for a refreshing raita, a cooling side dish with meals, or as a base for smoothies, it's packed with probiotics that aid digestion. Enjoy this versatile dairy product for its rich taste and numerous health benefits, a perfect addition to any meal.",
+    "rating": 4.4,
     "reviews": 76,
-    "rating": 4.4
+    "variants": [
+      {
+        "unit": "250g",
+        "price": 13,
+        "discount": "12%"
+      },
+      {
+        "unit": "500g",
+        "price": 25,
+        "discount": "12%"
+      },
+      {
+        "unit": "1kg",
+        "price": 50,
+        "discount": "12%"
+      }
+    ]
   },
   {
     "name": "Paneer",
     "category": "dairy",
-    "price": 80,
-    "unit": "200g",
-    "options": ["100g", "200g", "500g"],
     "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/2d037337-0ca2-463c-9f98-a6cba298d7a5.jpg?ts=1707312317",
     "inStock": true,
-    "description": "Fresh cottage cheese cubes.",
-    "discount": "23%",
+    "description": "Our fresh cottage cheese cubes, or Paneer, are soft, rich, and perfect for a variety of Indian dishes. Whether you're preparing a creamy Shahi Paneer, a spicy Kadai Paneer, or grilling it for a healthy snack, its delicate texture and ability to absorb flavors make it a versatile ingredient. Enjoy this protein-rich dairy delight that adds substance and taste to any meal.",
+    "rating": 4.3,
     "reviews": 59,
-    "rating": 4.3
+    "variants": [
+      {
+        "unit": "100g",
+        "price": 40,
+        "discount": "23%"
+      },
+      {
+        "unit": "200g",
+        "price": 80,
+        "discount": "23%"
+      },
+      {
+        "unit": "500g",
+        "price": 200,
+        "discount": "23%"
+      }
+    ]
   },
   {
     "name": "Bread",
     "category": "bakery",
-    "price": 30,
-    "unit": "400g",
-    "options": ["200g", "400g", "800g"],
     "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/be2b8d5d-1d96-4392-a3e7-a8df23933584.jpg?ts=1710313956",
     "inStock": true,
-    "description": "Soft and fresh sandwich bread.",
-    "discount": "32%",
+    "description": "Our soft and fresh sandwich bread is baked to perfection, offering a light texture and subtle taste, making it ideal for everyday use. Perfect for making delicious sandwiches, toast, or serving as an accompaniment to soups, this versatile bread is a staple for any meal. Enjoy its fresh-baked goodness, providing a delightful base for all your favorite fillings and spreads.",
+    "rating": 4.2,
     "reviews": 92,
-    "rating": 4.2
+    "variants": [
+      {
+        "unit": "200g",
+        "price": 15,
+        "discount": "32%"
+      },
+      {
+        "unit": "400g",
+        "price": 30,
+        "discount": "32%"
+      },
+      {
+        "unit": "800g",
+        "price": 60,
+        "discount": "32%"
+      }
+    ]
   },
   {
     "name": "Eggs",
     "category": "bakery",
-    "price": 60,
-    "unit": "12 pcs",
-    "options": ["6 pcs", "12 pcs", "30 pcs"],
     "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/987e28e2-ca19-493a-9a1f-8dd09865b160.jpg?ts=1739354504",
     "inStock": true,
-    "description": "Farm fresh chicken eggs.",
-    "discount": "34%",
+    "description": "Our farm-fresh chicken eggs are a versatile and nutritious source of protein, perfect for breakfast, baking, or adding to various dishes. Each egg is carefully selected for its quality and freshness, ensuring rich flavor and consistent results in your cooking. Enjoy them scrambled, boiled, fried, or in your favorite recipes for a healthy and satisfying meal.",
+    "rating": 4.7,
     "reviews": 105,
-    "rating": 4.7
+    "variants": [
+      {
+        "unit": "6 pcs",
+        "price": 30,
+        "discount": "34%"
+      },
+      {
+        "unit": "12 pcs",
+        "price": 60,
+        "discount": "34%"
+      },
+      {
+        "unit": "30 pcs",
+        "price": 150,
+        "discount": "34%"
+      }
+    ]
   },
   {
     "name": "Butter",
     "category": "dairy",
-    "price": 55,
-    "unit": "100g",
-    "options": ["100g", "250g", "500g"],
     "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/0be0d49a-4dae-408a-8786-afae1dd05cb1.jpg?ts=1707312314",
     "inStock": true,
-    "description": "Creamy table butter.",
-    "discount": "34%",
+    "description": "Our creamy table butter is made from the finest dairy, offering a rich, smooth texture and a delectable taste that enhances any meal. Perfect for spreading on toast, baking, cooking, or making indulgent sauces, this butter adds a touch of gourmet flavor to all your culinary creations. Enjoy its luxurious quality and versatility in your kitchen daily.",
+    "rating": 4.6,
     "reviews": 88,
-    "rating": 4.6
+    "variants": [
+      {
+        "unit": "100g",
+        "price": 55,
+        "discount": "34%"
+      },
+      {
+        "unit": "250g",
+        "price": 138,
+        "discount": "34%"
+      },
+      {
+        "unit": "500g",
+        "price": 275,
+        "discount": "34%"
+      }
+    ]
   },
   {
     "name": "Green Chilli",
     "category": "vegetables",
-    "price": 40,
-    "unit": "250g",
-    "options": ["100g", "250g", "500g"],
     "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/27055af4-f9ca-49f5-a84b-cf407583be43.jpg?ts=1711019907",
     "inStock": true,
-    "description": "Hot and spicy green chilies.",
-    "discount": "32%",
+    "description": "Add a fiery kick to your dishes with our fresh and spicy green chilies, hand-picked for their vibrant color and intense heat. Essential in Indian, Mexican, and Asian cuisines, these chilies are perfect for enhancing the flavor of curries, stir-fries, salsas, and chutneys. Use them finely chopped or slit to control the spice level and bring a delightful zing to your cooking.",
+    "rating": 3.9,
     "reviews": 27,
-    "rating": 3.9
+    "variants": [
+      {
+        "unit": "100g",
+        "price": 16,
+        "discount": "32%"
+      },
+      {
+        "unit": "250g",
+        "price": 40,
+        "discount": "32%"
+      },
+      {
+        "unit": "500g",
+        "price": 80,
+        "discount": "32%"
+      }
+    ]
   },
   {
     "name": "Maggi Noodles",
     "category": "snacks",
-    "price": 14,
-    "unit": "70g",
-    "options": ["70g", "140g", "280g"],
     "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/ff228544-ca02-4a8e-8ca3-a19a522d82d7.jpg?ts=1749121413",
     "inStock": true,
-    "description": "Instant noodles with classic masala flavor.",
-    "discount": "24%",
+    "description": "Satisfy your cravings with Maggi Noodles, the ultimate instant comfort food featuring the classic masala flavor that everyone loves. Quick and easy to prepare, these delicious noodles are perfect for a speedy snack or a light meal. Each bite delivers a delightful blend of spices and a comforting texture, making it a go-to choice for a flavorful and convenient treat.",
+    "rating": 4.8,
     "reviews": 203,
-    "rating": 4.8
+    "variants": [
+      {
+        "unit": "70g",
+        "price": 14,
+        "discount": "24%"
+      },
+      {
+        "unit": "140g",
+        "price": 28,
+        "discount": "24%"
+      },
+      {
+        "unit": "280g",
+        "price": 56,
+        "discount": "24%"
+      }
+    ]
   },
   {
     "name": "Parle-G Biscuits",
     "category": "snacks",
-    "price": 10,
-    "unit": "100g",
-    "options": ["100g", "200g", "500g"],
     "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/cb4f9631-6fd0-4e6c-904a-128fa111e6c8.jpg?ts=1723800413",
     "inStock": true,
-    "description": "Classic glucose biscuits loved by all.",
-    "discount": "12%",
+    "description": "Relish the timeless taste of Parle-G Biscuits, the classic glucose cookies loved by generations for their rich, wholesome flavor and satisfying crunch. Perfect for dipping in tea or milk, these iconic biscuits are a delightful companion for your morning or evening breaks. Enjoy the familiar comfort and nostalgic taste that makes Parle-G a beloved snack for all ages.",
+    "rating": 4.9,
     "reviews": 187,
-    "rating": 4.9
+    "variants": [
+      {
+        "unit": "100g",
+        "price": 10,
+        "discount": "12%"
+      },
+      {
+        "unit": "200g",
+        "price": 20,
+        "discount": "12%"
+      },
+      {
+        "unit": "500g",
+        "price": 50,
+        "discount": "12%"
+      }
+    ]
   },
   {
     "name": "Britannia Good Day",
     "category": "snacks",
-    "price": 25,
-    "unit": "150g",
-    "options": ["75g", "150g", "300g"],
     "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/7c0f22f1-a91e-4f40-a9c4-8fb3e4cbd9f6.jpg?ts=1743504566",
     "inStock": true,
-    "description": "Butter-rich cookies with crunchy nuts.",
-    "discount": "21%",
+    "description": "Indulge in the rich, buttery flavor of Britannia Good Day cookies, enhanced with the delightful crunch of real nuts. These perfectly baked biscuits offer a melt-in-your-mouth experience with every bite, making them an ideal treat for tea time or a satisfying snack. Enjoy the perfect balance of sweetness and texture, a truly good way to brighten your day.",
+    "rating": 4.7,
     "reviews": 134,
-    "rating": 4.7
+    "variants": [
+      {
+        "unit": "75g",
+        "price": 13,
+        "discount": "21%"
+      },
+      {
+        "unit": "150g",
+        "price": 25,
+        "discount": "21%"
+      },
+      {
+        "unit": "300g",
+        "price": 50,
+        "discount": "21%"
+      }
+    ]
   },
   {
     "name": "Coca-Cola",
     "category": "beverages",
-    "price": 40,
-    "unit": "750ml",
-    "options": ["250ml", "750ml", "1.5L"],
     "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/81348814-1a2d-45e1-b51b-7f32883c730b.jpg?ts=1749195943",
     "inStock": true,
-    "description": "Refreshing carbonated soft drink.",
-    "discount": "9%",
+    "description": "Quench your thirst with the iconic, refreshing taste of Coca-Cola, a classic carbonated soft drink that invigorates your senses with every sip. Perfect for any occasion, whether you're relaxing at home or celebrating with friends, its crisp and familiar flavor provides an instant uplift. Enjoy the timeless fizz and satisfying sweetness that makes Coca-Cola a globally loved beverage.",
+    "rating": 4.5,
     "reviews": 156,
-    "rating": 4.5
+    "variants": [
+      {
+        "unit": "250ml",
+        "price": 14,
+        "discount": "9%"
+      },
+      {
+        "unit": "750ml",
+        "price": 40,
+        "discount": "9%"
+      },
+      {
+        "unit": "1.5L",
+        "price": 80,
+        "discount": "9%"
+      }
+    ]
   },
   {
     "name": "Sprite",
     "category": "beverages",
-    "price": 40,
-    "unit": "750ml",
-    "options": ["250ml", "750ml", "1.5L"],
     "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/93d8cf14-79dd-40ca-8a6f-94f67e483130.jpg?ts=1749195959",
     "inStock": true,
-    "description": "Lemon-lime flavored soft drink.",
-    "discount": "23%",
+    "description": "Refresh yourself with the crisp, clean taste of Sprite, a zesty lemon-lime flavored soft drink that delivers a burst of effervescent delight. Perfect for cutting through rich meals or simply enjoying on a hot day, its clear and bubbly composition offers pure refreshment. Experience the bright, invigorating fizz that makes Sprite a perfect choice for instant revitalization.",
+    "rating": 4.4,
     "reviews": 142,
-    "rating": 4.4
+    "variants": [
+      {
+        "unit": "250ml",
+        "price": 14,
+        "discount": "23%"
+      },
+      {
+        "unit": "750ml",
+        "price": 40,
+        "discount": "23%"
+      },
+      {
+        "unit": "1.5L",
+        "price": 80,
+        "discount": "23%"
+      }
+    ]
   },
   {
     "name": "Tata Tea Premium",
     "category": "beverages",
-    "price": 120,
-    "unit": "250g",
-    "options": ["100g", "250g", "500g"],
     "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/a97253e6-c72f-42ea-a085-e340af63b66a.jpg?ts=1726126919",
     "inStock": true,
-    "description": "Strong and flavorful Indian tea.",
-    "discount": "32%",
+    "description": "Start your day with the rich, strong, and flavorful Tata Tea Premium, a blend that captures the essence of authentic Indian tea. Crafted from carefully selected tea leaves, it offers a robust aroma and a refreshing taste that awakens your senses. Perfect for your daily chai, this premium tea promises a consistently invigorating and deeply satisfying experience with every cup.",
+    "rating": 4.8,
     "reviews": 178,
-    "rating": 4.8
+    "variants": [
+      {
+        "unit": "100g",
+        "price": 48,
+        "discount": "32%"
+      },
+      {
+        "unit": "250g",
+        "price": 120,
+        "discount": "32%"
+      },
+      {
+        "unit": "500g",
+        "price": 240,
+        "discount": "32%"
+      }
+    ]
   },
   {
     "name": "Nescafe Coffee",
     "category": "beverages",
-    "price": 160,
-    "unit": "100g",
-    "options": ["50g", "100g", "200g"],
     "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/ace1e511-8340-4a4b-b4e3-ebc63b384a04.jpg?ts=1749449467",
     "inStock": true,
-    "description": "Instant coffee powder for quick refreshment.",
-    "discount": "30%",
+    "description": "Enjoy the rich aroma and invigorating taste of Nescafe Instant Coffee, perfect for a quick and satisfying refreshment anytime. Made from carefully selected coffee beans, this instant powder dissolves easily to deliver a smooth and bold flavor profile. Whether you prefer it black or with milk, Nescafe provides a convenient way to kickstart your day or enjoy a delightful coffee break.",
+    "rating": 4.7,
     "reviews": 165,
-    "rating": 4.7
+    "variants": [
+      {
+        "unit": "50g",
+        "price": 80,
+        "discount": "30%"
+      },
+      {
+        "unit": "100g",
+        "price": 160,
+        "discount": "30%"
+      },
+      {
+        "unit": "200g",
+        "price": 320,
+        "discount": "30%"
+      }
+    ]
   },
   {
     "name": "Red Chilli Powder",
     "category": "spices",
-    "price": 45,
-    "unit": "100g",
-    "options": ["50g", "100g", "250g"],
     "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/images/products/sliding_image/18850a.jpg?ts=1688464910",
     "inStock": true,
-    "description": "Fiery and vibrant red chilli powder.",
-    "discount": "23%",
+    "description": "Add a fiery and vibrant touch to your culinary creations with our premium Red Chilli Powder. Made from dried red chilies, this spice delivers an authentic heat and beautiful color to curries, gravies, and marinades. Its pungent flavor is essential for various Indian and international dishes, ensuring a bold and memorable taste in every bite.",
+    "rating": 4.3,
     "reviews": 87,
-    "rating": 4.3
+    "variants": [
+      {
+        "unit": "50g",
+        "price": 23,
+        "discount": "23%"
+      },
+      {
+        "unit": "100g",
+        "price": 45,
+        "discount": "23%"
+      },
+      {
+        "unit": "250g",
+        "price": 113,
+        "discount": "23%"
+      }
+    ]
   },
   {
     "name": "Turmeric Powder",
     "category": "spices",
-    "price": 35,
-    "unit": "100g",
-    "options": ["50g", "100g", "250g"],
     "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/images/products/sliding_image/10899a.jpg?ts=1688463549",
     "inStock": true,
-    "description": "Golden-yellow turmeric for everyday cooking.",
-    "discount": "19%",
+    "description": "Infuse your dishes with the golden-yellow hue and earthy aroma of our high-quality Turmeric Powder, an indispensable spice in Indian cuisine. Known for its distinct flavor and health benefits, it adds warmth and depth to curries, soups, and vegetable preparations. This finely ground turmeric ensures rich color and authentic taste in every dish, making it a culinary essential.",
+    "rating": 4.4,
     "reviews": 79,
-    "rating": 4.4
+    "variants": [
+      {
+        "unit": "50g",
+        "price": 18,
+        "discount": "19%"
+      },
+      {
+        "unit": "100g",
+        "price": 35,
+        "discount": "19%"
+      },
+      {
+        "unit": "250g",
+        "price": 88,
+        "discount": "19%"
+      }
+    ]
   },
   {
     "name": "Coriander Powder",
     "category": "spices",
-    "price": 38,
-    "unit": "100g",
-    "options": ["50g", "100g", "250g"],
     "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/images/products/sliding_image/18851a.jpg?ts=1688972648",
     "inStock": true,
-    "description": "Aromatic coriander spice blend.",
-    "discount": "18%",
+    "description": "Enhance your cooking with the fragrant and earthy notes of our premium Coriander Powder, a foundational spice in countless cuisines. Made from roasted and ground coriander seeds, it adds a mild, citrusy flavor to curries, gravies, and marinades. This aromatic spice blend provides depth and balance to your dishes, making it an essential ingredient for flavorful and authentic meals.",
+    "rating": 4.2,
     "reviews": 73,
-    "rating": 4.2
+    "variants": [
+      {
+        "unit": "50g",
+        "price": 19,
+        "discount": "18%"
+      },
+      {
+        "unit": "100g",
+        "price": 38,
+        "discount": "18%"
+      },
+      {
+        "unit": "250g",
+        "price": 95,
+        "discount": "18%"
+      }
+    ]
   },
   {
     "name": "Surf Excel Detergent",
     "category": "cleaning",
-    "price": 99,
-    "unit": "500g",
-    "options": ["250g", "500g", "1kg"],
     "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/7a0004f5-4c0e-4f6d-846f-dfa10491bceb.jpg?ts=1735960153",
     "inStock": true,
-    "description": "Powerful stain remover laundry detergent.",
-    "discount": "26%",
+    "description": "Experience superior cleaning with Surf Excel Detergent, a powerful stain remover laundry detergent that tackles even the toughest dirt and grime. Its advanced formula penetrates deep into fabric fibers, lifting away stains and leaving your clothes brilliantly clean and fresh. Trust Surf Excel to keep your laundry looking new, providing a pristine finish with every wash.",
+    "rating": 4.6,
     "reviews": 112,
-    "rating": 4.6
+    "variants": [
+      {
+        "unit": "250g",
+        "price": 50,
+        "discount": "26%"
+      },
+      {
+        "unit": "500g",
+        "price": 99,
+        "discount": "26%"
+      },
+      {
+        "unit": "1kg",
+        "price": 198,
+        "discount": "26%"
+      }
+    ]
   },
   {
     "name": "Vim Dishwash Bar",
     "category": "cleaning",
-    "price": 10,
-    "unit": "125g",
-    "options": ["75g", "125g", "250g"],
     "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/5d142a62-b7ac-4fc4-85e4-132d044a8893.jpg?ts=1746021213",
     "inStock": true,
-    "description": "Effective grease cleaner dish bar.",
-    "discount": "15%",
+    "description": "Achieve sparkling clean dishes effortlessly with Vim Dishwash Bar, an effective grease cleaner that powerfully cuts through tough oil and food residues. Its long-lasting formula creates rich lather, leaving your utensils spotless and fresh with every wash. Trust Vim to make dishwashing a breeze, ensuring hygiene and shine for all your kitchenware.",
+    "rating": 4.3,
     "reviews": 98,
-    "rating": 4.3
+    "variants": [
+      {
+        "unit": "75g",
+        "price": 6,
+        "discount": "15%"
+      },
+      {
+        "unit": "125g",
+        "price": 10,
+        "discount": "15%"
+      },
+      {
+        "unit": "250g",
+        "price": 20,
+        "discount": "15%"
+      }
+    ]
   },
   {
     "name": "Colgate Toothpaste",
     "category": "personal care",
-    "price": 55,
-    "unit": "100g",
-    "options": ["50g", "100g", "200g"],
     "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/211d2c2d-d494-4d8d-9e0c-d5a38393865d.jpg?ts=1741174486",
     "inStock": true,
-    "description": "Daily protection for strong teeth.",
-    "discount": "21%",
+    "description": "Ensure daily protection for strong teeth and healthy gums with Colgate Toothpaste, a trusted choice for comprehensive oral care. Its active formula fights cavities, freshens breath, and removes plaque, providing a complete solution for your family's dental hygiene. Experience the confidence of a clean mouth and a bright smile every day with Colgate.",
+    "rating": 4.7,
     "reviews": 143,
-    "rating": 4.7
+    "variants": [
+      {
+        "unit": "50g",
+        "price": 28,
+        "discount": "21%"
+      },
+      {
+        "unit": "100g",
+        "price": 55,
+        "discount": "21%"
+      },
+      {
+        "unit": "200g",
+        "price": 110,
+        "discount": "21%"
+      }
+    ]
   },
   {
     "name": "Lifebuoy Soap",
     "category": "personal care",
-    "price": 35,
-    "unit": "125g",
-    "options": ["75g", "125g", "250g"],
     "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/15851f3b-3018-414c-93d0-9f8622f8f87e.jpg?ts=1745821827",
     "inStock": true,
-    "description": "Antibacterial bathing soap.",
-    "discount": "20%",
+    "description": "Stay protected with Lifebuoy Soap, an antibacterial bathing soap that offers powerful germ protection for a healthy and hygienic clean. Its rich lather and refreshing fragrance leave your skin feeling fresh and revitalized after every wash. Trust Lifebuoy to keep you and your family safe from germs, ensuring a clean and protected feeling throughout the day.",
+    "rating": 4.5,
     "reviews": 129,
-    "rating": 4.5
+    "variants": [
+      {
+        "unit": "75g",
+        "price": 26,
+        "discount": "20%"
+      },
+      {
+        "unit": "125g",
+        "price": 35,
+        "discount": "20%"
+      },
+      {
+        "unit": "250g",
+        "price": 70,
+        "discount": "20%"
+      }
+    ]
   },
   {
     "name": "Dettol Liquid",
     "category": "personal care",
-    "price": 99,
-    "unit": "250ml",
-    "options": ["100ml", "250ml", "500ml"],
     "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/dac1cd3b-3e42-4d97-89dd-365ac051fe5b.jpg",
     "inStock": true,
-    "description": "Antiseptic liquid for first aid & hygiene.",
-    "discount": "23%",
+    "description": "Ensure ultimate protection and hygiene with Dettol Antiseptic Liquid, your trusted solution for first aid, personal hygiene, and household disinfection. Its powerful formula kills 99.9% of germs, making it ideal for cuts, scratches, shaving, and cleaning surfaces. Keep your family safe and healthy with Dettol, an essential for every home's wellness kit.",
+    "rating": 4.6,
     "reviews": 117,
-    "rating": 4.6
+    "variants": [
+      {
+        "unit": "100ml",
+        "price": 40,
+        "discount": "23%"
+      },
+      {
+        "unit": "250ml",
+        "price": 99,
+        "discount": "23%"
+      },
+      {
+        "unit": "500ml",
+        "price": 198,
+        "discount": "23%"
+      }
+    ]
   },
   {
     "name": "Peanut Butter",
     "category": "spreads",
-    "price": 160,
-    "unit": "340g",
-    "options": ["170g", "340g", "500g"],
     "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/00d61b55-4534-4f8d-92b7-4915775cab27.jpg?ts=1713777016",
     "inStock": true,
-    "description": "Creamy and protein-rich peanut spread.",
-    "discount": "12%",
+    "description": "Our creamy and protein-rich Peanut Butter is a wholesome and delicious spread, perfect for energizing your mornings or satisfying your snack cravings. Made from roasted peanuts, it offers a smooth texture and a rich, nutty flavor, ideal for spreading on toast, adding to smoothies, or using in baking. Enjoy this nutritious and versatile spread for a boost of energy and taste.",
+    "rating": 4.4,
     "reviews": 94,
-    "rating": 4.4
+    "variants": [
+      {
+        "unit": "170g",
+        "price": 80,
+        "discount": "12%"
+      },
+      {
+        "unit": "340g",
+        "price": 160,
+        "discount": "12%"
+      },
+      {
+        "unit": "500g",
+        "price": 235,
+        "discount": "12%"
+      }
+    ]
   },
   {
     "name": "Kissan Jam",
     "category": "spreads",
-    "price": 130,
-    "unit": "200g",
-    "options": ["100g", "200g", "500g"],
     "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/583a66bc-8313-4554-89b3-256bcfe7d1e4.jpg?ts=1707312318",
     "inStock": true,
-    "description": "Mixed fruit jam for bread and parathas.",
-    "discount": "23%",
+    "description": "Brighten your breakfast with Kissan Mixed Fruit Jam, a delicious blend of various fruits that brings a burst of tangy sweetness to your table. Perfect for spreading on bread, rotis, or parathas, this jam is made with real fruit pulp, offering a delightful and wholesome experience. Enjoy its vibrant flavor and smooth texture, making every meal more enjoyable.",
+    "rating": 4.3,
     "reviews": 81,
-    "rating": 4.3
+    "variants": [
+      {
+        "unit": "100g",
+        "price": 65,
+        "discount": "23%"
+      },
+      {
+        "unit": "200g",
+        "price": 130,
+        "discount": "23%"
+      },
+      {
+        "unit": "500g",
+        "price": 325,
+        "discount": "23%"
+      }
+    ]
   },
   {
     "name": "Honey",
     "category": "spreads",
-    "price": 180,
-    "unit": "250g",
-    "options": ["100g", "250g", "500g"],
     "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/3fcc1c46-14cb-4e42-b1db-888101661033.jpg?ts=1737444112",
     "inStock": true,
-    "description": "Natural and sweet pure honey.",
-    "discount": "13%",
+    "description": "Experience the pure and natural sweetness of our premium Honey, collected from the finest floral sources. This golden, viscous liquid is perfect as a healthy sweetener for beverages, a delicious topping for breakfast cereals, or an ingredient in baking and cooking. Rich in antioxidants and natural goodness, our honey offers a delightful taste and numerous health benefits.",
+    "rating": 4.5,
     "reviews": 102,
-    "rating": 4.5
+    "variants": [
+      {
+        "unit": "100g",
+        "price": 72,
+        "discount": "13%"
+      },
+      {
+        "unit": "250g",
+        "price": 180,
+        "discount": "13%"
+      },
+      {
+        "unit": "500g",
+        "price": 360,
+        "discount": "13%"
+      }
+    ]
+  },
+  {
+    "name": "Cucumber",
+    "category": "vegetables",
+    "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=720/app/assets/products/sliding_images/jpeg/4a7cbdcc-d74d-403f-a0cb-b130572ad296.jpg?ts=1711022176",
+    "inStock": true,
+    "description": "Our crisp and refreshing cucumbers are perfect for hydrating and adding a cool crunch to your salads, sandwiches, and detox drinks. With their mild flavor and high water content, these farm-fresh cucumbers are a healthy addition to any meal. Enjoy them sliced, diced, or as a cooling snack, offering a delightful texture and invigorating freshness.",
+    "rating": 4.1,
+    "reviews": 25,
+    "variants": [
+      {
+        "unit": "500g",
+        "price": 12,
+        "discount": "15%"
+      },
+      {
+        "unit": "1kg",
+        "price": 24,
+        "discount": "15%"
+      }
+    ]
+  },
+  {
+    "name": "Spinach",
+    "category": "vegetables",
+    "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=720/da/cms-assets/cms/product/205bdf41-3adb-4dbe-80d9-cd5a20a72390.jpg?ts=1745410346",
+    "inStock": true,
+    "description": "Our fresh and leafy spinach is packed with vitamins and minerals, making it a superfood for your daily diet. Ideal for stir-fries, curries, smoothies, or salads, it cooks down quickly while retaining its rich flavor and nutritional value. Add this versatile green to your meals for a healthy boost and a touch of vibrant color.",
+    "rating": 4.0,
+    "reviews": 20,
+    "variants": [
+      {
+        "unit": "250g",
+        "price": 10,
+        "discount": "10%"
+      },
+      {
+        "unit": "500g",
+        "price": 20,
+        "discount": "10%"
+      }
+    ]
+  },
+  {
+    "name": "Capsicum (Bell Pepper)",
+    "category": "vegetables",
+    "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=720/app/assets/products/sliding_images/jpeg/cc608cb6-5bd6-4dcf-a74c-597c57b68664.jpg?ts=1711024453",
+    "inStock": true,
+    "description": "Our vibrant and sweet capsicums, also known as bell peppers, are perfect for adding color, crunch, and a mild flavor to your dishes. Great for stir-fries, salads, pizzas, or stuffing, they are rich in Vitamin C and antioxidants. Choose from red, yellow, or green for a visually appealing and healthy addition to your culinary creations, enhancing both taste and presentation.",
+    "rating": 4.2,
+    "reviews": 30,
+    "variants": [
+      {
+        "unit": "250g",
+        "price": 25,
+        "discount": "20%"
+      },
+      {
+        "unit": "500g",
+        "price": 50,
+        "discount": "20%"
+      }
+    ]
+  },
+  {
+    "name": "Lady Finger (Okra)",
+    "category": "vegetables",
+    "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=720/app/assets/products/sliding_images/jpeg/1d455f4c-48df-4228-8fdb-51129f10491d.jpg?ts=1711016007",
+    "inStock": true,
+    "description": "Our fresh and tender Lady Finger, or Okra, is a popular vegetable known for its unique texture and mild, slightly earthy flavor. Ideal for making traditional Indian bhindi fry, curries, or adding to stews, it becomes delightfully crisp when cooked correctly. Enjoy this versatile vegetable, which brings a distinctive taste and satisfying bite to your everyday meals.",
+    "rating": 3.9,
+    "reviews": 18,
+    "variants": [
+      {
+        "unit": "250g",
+        "price": 15,
+        "discount": "15%"
+      },
+      {
+        "unit": "500g",
+        "price": 30,
+        "discount": "15%"
+      }
+    ]
+  },
+  {
+    "name": "Broccoli",
+    "category": "vegetables",
+    "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=720/app/assets/products/sliding_images/jpeg/46de3e21-9668-438c-9ea2-51d49df57d25.jpg?ts=1717782417",
+    "inStock": true,
+    "description": "Our fresh green broccoli is a highly nutritious cruciferous vegetable, perfect for a healthy and balanced diet. With its mild, slightly bitter flavor and tender florets, it's excellent for steaming, roasting, stir-frying, or adding to soups and salads. Packed with vitamins and fiber, this versatile vegetable supports overall well-being, making it a smart choice for any meal.",
+    "rating": 4.3,
+    "reviews": 28,
+    "variants": [
+      {
+        "unit": "1 piece",
+        "price": 60,
+        "discount": "20%"
+      },
+      {
+        "unit": "500g",
+        "price": 50,
+        "discount": "20%"
+      }
+    ]
+  },
+  {
+    "name": "Pomegranate",
+    "category": "fruits",
+    "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=720/da/cms-assets/cms/product/cd149af2-195b-49ef-bc19-7711ee7b5237.jpg?ts=1748844202",
+    "inStock": true,
+    "description": "Enjoy the vibrant and juicy arils of our fresh pomegranates, bursting with sweet-tart flavor and rich in antioxidants. Perfect for snacking, adding to salads, juicing, or garnishing desserts, these ruby-red seeds offer a delightful crunch and a host of health benefits. Indulge in the natural goodness and refreshing taste of this exotic fruit.",
+    "rating": 4.4,
+    "reviews": 40,
+    "variants": [
+      {
+        "unit": "1 piece",
+        "price": 80,
+        "discount": "15%"
+      },
+      {
+        "unit": "2 pieces",
+        "price": 160,
+        "discount": "15%"
+      }
+    ]
+  },
+  {
+    "name": "Kiwi",
+    "category": "fruits",
+    "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=720/app/assets/products/sliding_images/jpeg/d3131455-8586-473b-9ea6-e8193fad986b.jpg?ts=1711473370",
+    "inStock": true,
+    "description": "Our tangy and refreshing kiwi fruits are packed with Vitamin C and offer a unique sweet-sour flavor profile. Perfect for fruit salads, smoothies, or as a vibrant garnish, their bright green flesh and tiny black seeds add visual appeal and a delightful texture. Enjoy the tropical essence and numerous health benefits of this delicious fruit.",
+    "rating": 4.0,
+    "reviews": 25,
+    "variants": [
+      {
+        "unit": "3 pcs",
+        "price": 60,
+        "discount": "10%"
+      },
+      {
+        "unit": "6 pcs",
+        "price": 120,
+        "discount": "10%"
+      }
+    ]
+  },
+  {
+    "name": "Watermelon",
+    "category": "fruits",
+    "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=720/da/cms-assets/cms/product/afaa92b2-1a1a-4f0c-847b-28578fe3d9c1.jpg?ts=1750059909",
+    "inStock": true,
+    "description": "Quench your thirst with our juicy and sweet watermelon, the quintessential summer fruit. Known for its refreshing taste and high water content, it's perfect for staying hydrated and enjoying a light, healthy snack. Serve it chilled, in fruit salads, or blended into refreshing juices for a burst of natural sweetness and cooling relief on hot days.",
+    "rating": 4.5,
+    "reviews": 50,
+    "variants": [
+      {
+        "unit": "1 piece (approx 2-3kg)",
+        "price": 100,
+        "discount": "20%"
+      }
+    ]
+  },
+  {
+    "name": "Green Gram (Whole Moong)",
+    "category": "dal",
+    "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=720/da/cms-assets/cms/product/531245eb-cc3e-4c37-9395-8b6aab560eef.jpg?ts=1735029056",
+    "inStock": true,
+    "description": "Our whole Green Gram, or whole Moong, is a nutritious and versatile legume perfect for sprouting, making hearty curries, or adding to salads. Rich in protein and dietary fiber, it offers a wholesome and earthy flavor. This unpolished dal retains all its natural goodness, making it an excellent choice for a balanced and healthy diet, easily incorporated into various dishes.",
+    "rating": 4.1,
+    "reviews": 30,
+    "variants": [
+      {
+        "unit": "500g",
+        "price": 60,
+        "discount": "10%"
+      },
+      {
+        "unit": "1kg",
+        "price": 120,
+        "discount": "10%"
+      }
+    ]
+  },
+  {
+    "name": "Masoor Dal (Red Lentil)",
+    "category": "dal",
+    "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=720/da/cms-assets/cms/product/683804fe-3045-42cd-ab7f-e6c72be2e019.jpg?ts=1735029047",
+    "inStock": true,
+    "description": "Our split Masoor Dal, or Red Lentil, is a quick-cooking and highly nutritious lentil, perfect for creamy and comforting dals. Its mild, earthy flavor and tender texture make it a versatile ingredient for soups, stews, and traditional Indian curries. Rich in protein and dietary fiber, this dal is an excellent choice for a wholesome and easy-to-prepare meal.",
+    "rating": 4.3,
+    "reviews": 35,
+    "variants": [
+      {
+        "unit": "500g",
+        "price": 58,
+        "discount": "12%"
+      },
+      {
+        "unit": "1kg",
+        "price": 115,
+        "discount": "12%"
+      }
+    ]
+  },
+  {
+    "name": "Coconut Oil",
+    "category": "oil",
+    "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=720/da/cms-assets/cms/product/9e3e3d58-8c8e-45a2-8f29-094996f8f727.jpg?ts=1732508920",
+    "inStock": true,
+    "description": "Our pure Coconut Oil is a versatile and aromatic oil, perfect for cooking, baking, and even personal care. With its distinct tropical flavor, it enhances the taste of curries, stir-fries, and sweets. Known for its health benefits and high smoke point, this oil is a natural choice for those seeking a flavorful and wholesome alternative in their kitchen and beauty routine.",
+    "rating": 4.4,
+    "reviews": 45,
+    "variants": [
+      {
+        "unit": "500ml",
+        "price": 120,
+        "discount": "15%"
+      },
+      {
+        "unit": "1L",
+        "price": 240,
+        "discount": "15%"
+      }
+    ]
+  },
+  {
+    "name": "Ghee (Clarified Butter)",
+    "category": "dairy",
+    "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=720/app/assets/products/sliding_images/jpeg/2f1c1e0e-2e32-4bcd-80b1-33d32cfbb5b9.jpg?ts=1725535341",
+    "inStock": true,
+    "description": "Our pure Ghee, or clarified butter, offers a rich, nutty aroma and a distinct, delicious flavor that elevates any dish. Made from churned butter, it is a staple in Indian cuisine for frying, sautéing, and adding richness to curries, dals, and sweets. Known for its high smoke point and digestive benefits, this golden liquid provides authentic taste and wholesome goodness.",
+    "rating": 4.7,
+    "reviews": 90,
+    "variants": [
+      {
+        "unit": "200ml",
+        "price": 180,
+        "discount": "10%"
+      },
+      {
+        "unit": "500ml",
+        "price": 450,
+        "discount": "10%"
+      }
+    ]
+  },
+  {
+    "name": "Yogurt",
+    "category": "dairy",
+    "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=720/app/assets/products/sliding_images/jpeg/66e43f0b-343c-4c0c-a4a3-de1c1bf7cad8.jpg?ts=1707312318",
+    "inStock": true,
+    "description": "Our smooth and creamy yogurt is a versatile dairy product, packed with probiotics for healthy digestion. Perfect for a quick snack, blending into smoothies, preparing refreshing raitas, or as a cooling accompaniment to spicy meals, it offers a mild, tangy flavor. Enjoy its wholesome goodness and creamy texture, a delightful addition to your daily diet.",
+    "rating": 4.2,
+    "reviews": 65,
+    "variants": [
+      {
+        "unit": "200g",
+        "price": 25,
+        "discount": "10%"
+      },
+      {
+        "unit": "400g",
+        "price": 50,
+        "discount": "10%"
+      }
+    ]
+  },
+  {
+    "name": "Brown Bread",
+    "category": "bakery",
+    "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=720/da/cms-assets/cms/product/c953685d-702d-49fc-b624-caa68210e13b.jpg?ts=1739796629",
+    "inStock": true,
+    "description": "Our wholesome brown bread is made with whole grains, offering a nutritious and fiber-rich alternative to white bread. With its hearty texture and slightly nutty flavor, it's perfect for healthy sandwiches, toast, or as a side with your meals. Enjoy the goodness of whole wheat in every slice, making it a smart choice for a balanced diet.",
+    "rating": 4.3,
+    "reviews": 70,
+    "variants": [
+      {
+        "unit": "400g",
+        "price": 35,
+        "discount": "25%"
+      },
+      {
+        "unit": "800g",
+        "price": 70,
+        "discount": "25%"
+      }
+    ]
+  },
+  {
+    "name": "Britannia Biscuits (Assorted)",
+    "category": "snacks",
+    "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=720/da/cms-assets/cms/product/12264a91-5066-455e-ab60-9768ded2f0a6.jpg?ts=1749728537",
+    "inStock": true,
+    "description": "Enjoy a delightful assortment of biscuits, perfect for every palate and occasion. This selection offers a variety of textures and flavors, from classic sweet and buttery options to crispy and savory delights, ensuring there's something for everyone. Ideal for tea time, quick snacks, or sharing with guests, these biscuits promise a moment of pure enjoyment with every bite.",
+    "rating": 4.6,
+    "reviews": 110,
+    "variants": [
+      {
+        "unit": "200g",
+        "price": 45,
+        "discount": "15%"
+      },
+      {
+        "unit": "400g",
+        "price": 90,
+        "discount": "15%"
+      }
+    ]
+  },
+  {
+    "name": "Chips (Potato)",
+    "category": "snacks",
+    "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=720/app/assets/products/sliding_images/jpeg/28e2bfb3-ca64-432f-916e-32cac6ede709.jpg?ts=1726832118",
+    "inStock": true,
+    "description": "Satisfy your cravings with our crispy and flavorful potato chips, perfectly sliced and seasoned for an irresistible crunch. Ideal for a quick snack, movie night, or party appetizer, these chips offer a satisfying salty taste that's hard to resist. Enjoy the classic goodness and delightful crispness that makes them a favorite for all ages, a perfect treat anytime.",
+    "rating": 4.1,
+    "reviews": 95,
+    "variants": [
+      {
+        "unit": "50g",
+        "price": 20,
+        "discount": "10%"
+      },
+      {
+        "unit": "100g",
+        "price": 40,
+        "discount": "10%"
+      }
+    ]
+  },
+  {
+    "name": "Green Tea",
+    "category": "beverages",
+    "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=720/app/images/products/sliding_image/187235a.jpg?ts=1698842648",
+    "inStock": true,
+    "description": "Invigorate your senses with our refreshing Green Tea, known for its delicate flavor and numerous health benefits. Rich in antioxidants, it's perfect for a calming morning ritual or a soothing evening sip. Enjoy its light, earthy taste and revitalizing properties, making it an ideal choice for a healthy lifestyle and moments of tranquil relaxation.",
+    "rating": 4.5,
+    "reviews": 120,
+    "variants": [
+      {
+        "unit": "25 tea bags",
+        "price": 90,
+        "discount": "18%"
+      },
+      {
+        "unit": "50 tea bags",
+        "price": 180,
+        "discount": "18%"
+      }
+    ]
+  },
+  {
+    "name": "Coffee (Filter)",
+    "category": "beverages",
+    "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=720/da/cms-assets/cms/product/9e43e239-d71c-4e56-91ae-6cc429f2beb7.jpg?ts=1740648916",
+    "inStock": true,
+    "description": "Savor the rich and robust flavor of our premium Filter Coffee, perfect for connoisseurs who appreciate a strong and aromatic brew. Made from a blend of high-quality coffee beans, it delivers a deep, satisfying taste that awakens your senses. Enjoy a traditional South Indian filter coffee experience, a perfect way to kickstart your day or enjoy a moment of indulgence.",
+    "rating": 4.6,
+    "reviews": 130,
+    "variants": [
+      {
+        "unit": "200g",
+        "price": 150,
+        "discount": "20%"
+      },
+      {
+        "unit": "500g",
+        "price": 375,
+        "discount": "20%"
+      }
+    ]
+  },
+  {
+    "name": "Black Pepper Powder",
+    "category": "spices",
+    "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=720/app/images/products/sliding_image/67351a.jpg?ts=1687525098",
+    "inStock": true,
+    "description": "Add a pungent and aromatic kick to your dishes with our freshly ground Black Pepper Powder. A universal spice, it enhances the flavor of savory meals, soups, salads, and marinades with its bold and zesty notes. Our high-quality black pepper ensures maximum flavor and freshness, making it an essential condiment for every kitchen, elevating any culinary creation.",
+    "rating": 4.5,
+    "reviews": 80,
+    "variants": [
+      {
+        "unit": "50g",
+        "price": 30,
+        "discount": "15%"
+      },
+      {
+        "unit": "100g",
+        "price": 60,
+        "discount": "15%"
+      }
+    ]
+  },
+  {
+    "name": "Cumin Powder (Jeera)",
+    "category": "spices",
+    "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=720/app/images/products/sliding_image/11186a.jpg?ts=1688463552",
+    "inStock": true,
+    "description": "Infuse your cooking with the warm, earthy, and distinct aroma of our premium Cumin Powder. A fundamental spice in Indian, Middle Eastern, and Mexican cuisines, it adds depth and a unique flavor profile to curries, stews, and roasted vegetables. Our finely ground cumin ensures rich taste and potency, making it an essential ingredient for authentic and flavorful dishes.",
+    "rating": 4.3,
+    "reviews": 75,
+    "variants": [
+      {
+        "unit": "50g",
+        "price": 25,
+        "discount": "12%"
+      },
+      {
+        "unit": "100g",
+        "price": 50,
+        "discount": "12%"
+      }
+    ]
+  },
+  {
+    "name": "Vim Dishwashing Liquid",
+    "category": "cleaning",
+    "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=720/da/cms-assets/cms/product/aa365737-083d-4212-bc63-c5a4a8f40859.jpg?ts=1732867034",
+    "inStock": true,
+    "description": "Achieve sparkling clean dishes with our powerful Dishwashing Liquid, designed to effortlessly cut through grease and grime. Its concentrated formula creates rich suds, leaving your utensils spotless and fresh with a pleasant scent. Gentle on hands yet tough on stains, this liquid ensures a thorough clean for all your kitchenware, making dishwashing a quick and easy task.",
+    "rating": 4.4,
+    "reviews": 105,
+    "variants": [
+      {
+        "unit": "250ml",
+        "price": 60,
+        "discount": "20%"
+      },
+      {
+        "unit": "500ml",
+        "price": 120,
+        "discount": "20%"
+      }
+    ]
+  },
+  {
+    "name": "Lizol Floor Cleaner",
+    "category": "cleaning",
+    "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=720/app/assets/products/sliding_images/jpeg/fcab2ff4-ef47-4fdb-8115-879f76bf1e16.jpg?ts=1711720344",
+    "inStock": true,
+    "description": "Keep your floors immaculately clean and hygienic with our powerful Floor Cleaner. Its advanced formula effectively removes dirt, grime, and tough stains, while leaving behind a refreshing fragrance. Suitable for various floor types, this cleaner ensures a sparkling finish and a fresh-smelling home, providing a clean and safe environment for your family.",
+    "rating": 4.5,
+    "reviews": 115,
+    "variants": [
+      {
+        "unit": "500ml",
+        "price": 75,
+        "discount": "18%"
+      },
+      {
+        "unit": "1L",
+        "price": 150,
+        "discount": "18%"
+      }
+    ]
+  },
+  {
+    "name": "Dettol Hand Wash",
+    "category": "personal care",
+    "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=720/da/cms-assets/cms/product/efea0fdd-2f40-4e34-a13a-603b6756a3fa.jpg?ts=1746780686",
+    "inStock": true,
+    "description": "Ensure clean and germ-free hands with our refreshing Hand Wash, formulated to gently cleanse while leaving your skin soft and moisturized. Its rich lather effectively removes dirt and impurities, and the pleasant fragrance leaves your hands feeling fresh. Ideal for daily use, this hand wash promotes good hygiene and healthy skin for the entire family.",
+    "rating": 4.6,
+    "reviews": 135,
+    "variants": [
+      {
+        "unit": "200ml",
+        "price": 70,
+        "discount": "15%"
+      },
+      {
+        "unit": "500ml",
+        "price": 175,
+        "discount": "15%"
+      }
+    ]
+  },
+  {
+    "name": "Head & Shoulders Shampoo",
+    "category": "personal care",
+    "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=720/app/assets/products/sliding_images/jpeg/9dfe72b5-48b6-4579-ac2b-778db94c2607.jpg?ts=1724309188",
+    "inStock": true,
+    "description": "Revitalize your hair with our nourishing Shampoo, designed to gently cleanse and strengthen your strands from root to tip. Its rich formula leaves your hair feeling soft, shiny, and manageable, with a refreshing fragrance that lasts all day. Experience the difference with every wash, promoting healthy hair growth and a beautiful, lustrous look.",
+    "rating": 4.3,
+    "reviews": 100,
+    "variants": [
+      {
+        "unit": "180ml",
+        "price": 110,
+        "discount": "20%"
+      },
+      {
+        "unit": "360ml",
+        "price": 220,
+        "discount": "20%"
+      }
+    ]
+  },
+  {
+    "name": "Nivia Body Lotion",
+    "category": "personal care",
+    "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=720/da/cms-assets/cms/product/cf38caa9-5285-4913-a16e-c8dac7d12d9a.jpg?ts=1751369754",
+    "inStock": true,
+    "description": "Hydrate and moisturize your skin with our luxurious Body Lotion, formulated to provide deep nourishment and a silky-smooth feel. Its non-greasy formula absorbs quickly, leaving your skin soft, supple, and delicately fragranced. Ideal for daily use, this lotion helps maintain skin's natural moisture barrier, ensuring healthy and radiant skin all day long.",
+    "rating": 4.4,
+    "reviews": 90,
+    "variants": [
+      {
+        "unit": "250ml",
+        "price": 150,
+        "discount": "18%"
+      },
+      {
+        "unit": "400ml",
+        "price": 240,
+        "discount": "18%"
+      }
+    ]
+  },
+  {
+    "name": "Tops Jam (Strawberry)",
+    "category": "spreads",
+    "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=720/app/images/products/sliding_image/525711a.jpg",
+    "inStock": true,
+    "description": "Savor the sweet and fruity taste of our Strawberry Jam, bursting with the natural goodness of ripe strawberries. Perfect for spreading on toast, scones, or pastries, this delicious jam adds a delightful tang and vibrant flavor to your breakfast. Enjoy its smooth texture and rich fruitiness, a delightful addition to your morning routine or tea time treats.",
+    "rating": 4.2,
+    "reviews": 75,
+    "variants": [
+      {
+        "unit": "200g",
+        "price": 120,
+        "discount": "20%"
+      },
+      {
+        "unit": "400g",
+        "price": 240,
+        "discount": "20%"
+      }
+    ]
+  },
+  {
+    "name": "Hershey's Chocolate Spread",
+    "category": "spreads",
+    "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/assets/products/sliding_images/jpeg/3ebfc346-b21b-4d3c-a62d-8c63453db9e1.jpg?ts=1714479346",
+    "inStock": true,
+    "description": "Indulge your sweet tooth with our decadent Chocolate Spread, a rich and creamy delight perfect for breakfast or dessert. Made with high-quality cocoa, it offers a smooth texture and intense chocolate flavor, ideal for spreading on toast, pancakes, or fruits. Enjoy this irresistible treat that brings a smile to every face with its delicious, comforting taste.",
+    "rating": 4.5,
+    "reviews": 110,
+    "variants": [
+      {
+        "unit": "200g",
+        "price": 180,
+        "discount": "15%"
+      },
+      {
+        "unit": "350g",
+        "price": 300,
+        "discount": "15%"
+      }
+    ]
+  },
+  {
+    "name": "Paneer Tikka Masala (Ready Mix)",
+    "category": "ready to cook",
+    "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=720/app/assets/products/sliding_images/jpeg/c06671b9-bf20-460d-819c-564d18db433d.jpg?ts=1723374921",
+    "inStock": true,
+    "description": "Prepare a delicious Paneer Tikka Masala effortlessly with our convenient ready mix, bringing authentic Indian flavors to your kitchen. This perfectly balanced blend of spices ensures a rich, creamy, and aromatic curry, making it easy to create a restaurant-quality meal at home. Just add paneer and enjoy a flavorful and comforting dish in minutes.",
+    "rating": 4.6,
+    "reviews": 60,
+    "variants": [
+      {
+        "unit": "100g",
+        "price": 80,
+        "discount": "10%"
+      },
+      {
+        "unit": "200g",
+        "price": 150,
+        "discount": "10%"
+      }
+    ]
+  },
+  {
+    "name": "Butter Chicken Masala (Ready Mix)",
+    "category": "ready to cook",
+    "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/r9s0t1u2-3v4w-5x6y-7z8a-9b0c1d2e3f4g.jpg",
+    "inStock": true,
+    "description": "Whip up a classic Butter Chicken effortlessly with our ready mix, delivering the rich, creamy, and slightly sweet flavors of this beloved Indian dish. This expertly blended mix ensures a perfect balance of spices, making it simple to prepare a restaurant-style meal in your own kitchen. Just add chicken and enjoy a truly indulgent and comforting curry.",
+    "rating": 4.7,
+    "reviews": 70,
+    "variants": [
+      {
+        "unit": "100g",
+        "price": 85,
+        "discount": "12%"
+      },
+      {
+        "unit": "200g",
+        "price": 160,
+        "discount": "12%"
+      }
+    ]
+  },
+  {
+    "name": "Papad (Urad Dal)",
+    "category": "snacks",
+    "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/s0t1u2v3-4w5x-6y7z-8a9b-0c1d2e3f4g5h.jpg",
+    "inStock": true,
+    "description": "Our crispy Urad Dal Papad is a traditional Indian accompaniment, perfect for adding a delightful crunch to any meal. Made from urad dal flour and spices, these thin, disc-shaped wafers can be roasted or fried for a quick and flavorful snack or side dish. Enjoy their savory taste and satisfying texture, a perfect addition to enhance your dining experience.",
+    "rating": 4.0,
+    "reviews": 55,
+    "variants": [
+      {
+        "unit": "200g",
+        "price": 40,
+        "discount": "10%"
+      },
+      {
+        "unit": "400g",
+        "price": 75,
+        "discount": "10%"
+      }
+    ]
+  },
+  {
+    "name": "Gulab Jamun (Dessert Mix)",
+    "category": "desserts",
+    "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/t1u2v3w4-5x6y-7z8a-9b0c-1d2e3f4g5h6i.jpg",
+    "inStock": true,
+    "description": "Create classic Indian sweet Gulab Jamun effortlessly with our convenient dessert mix, allowing you to prepare these soft, syrupy dumplings at home. This easy-to-use mix ensures perfect, melt-in-your-mouth jamuns every time, soaked in fragrant sugar syrup. Indulge in this traditional dessert, a perfect treat for celebrations or a comforting sweet craving.",
+    "rating": 4.5,
+    "reviews": 85,
+    "variants": [
+      {
+        "unit": "200g",
+        "price": 90,
+        "discount": "15%"
+      },
+      {
+        "unit": "500g",
+        "price": 220,
+        "discount": "15%"
+      }
+    ]
+  },
+  {
+    "name": "Instant Coffee (Decaf)",
+    "category": "beverages",
+    "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/u2v3w4x5-6y7z-8a9b-0c1d-2e3f4g5h6i7j.jpg",
+    "inStock": true,
+    "description": "Enjoy the rich taste of coffee without the caffeine with our Instant Decaf Coffee. Perfect for those who love the flavor but prefer to avoid stimulants, this coffee offers a smooth and aromatic brew. Ideal for a relaxing evening or anytime you desire a delicious cup without the jolt, it provides a comforting and satisfying coffee experience.",
+    "rating": 4.3,
+    "reviews": 70,
+    "variants": [
+      {
+        "unit": "50g",
+        "price": 90,
+        "discount": "20%"
+      },
+      {
+        "unit": "100g",
+        "price": 180,
+        "discount": "20%"
+      }
+    ]
+  },
+  {
+    "name": "Herbal Tea",
+    "category": "beverages",
+    "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/v3w4x5y6-7z8a-9b0c-1d2e-3f4g5h6i7j8k.jpg",
+    "inStock": true,
+    "description": "Relax and rejuvenate with our soothing Herbal Tea, a delightful blend of natural herbs and botanicals. Free from caffeine, it's perfect for a calming moment at any time of day, promoting relaxation and well-being. Enjoy its delicate aroma and comforting flavors, making it an ideal choice for unwinding after a long day or simply enjoying a moment of tranquility.",
+    "rating": 4.4,
+    "reviews": 65,
+    "variants": [
+      {
+        "unit": "20 tea bags",
+        "price": 70,
+        "discount": "15%"
+      },
+      {
+        "unit": "40 tea bags",
+        "price": 140,
+        "discount": "15%"
+      }
+    ]
+  },
+  {
+    "name": "Vinegar (White)",
+    "category": "condiments",
+    "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/w4x5y6z7-8a9b-0c1d-2e3f-4g5h6i7j8k9l.jpg",
+    "inStock": true,
+    "description": "Our versatile White Vinegar is a kitchen essential, perfect for a wide range of culinary and household uses. Its crisp acidity enhances salad dressings, marinades, and pickling recipes, while also serving as an effective natural cleaner and disinfectant. Keep your kitchen sparkling and your food flavorful with this indispensable pantry staple, offering both taste and utility.",
+    "rating": 4.2,
+    "reviews": 45,
+    "variants": [
+      {
+        "unit": "250ml",
+        "price": 30,
+        "discount": "10%"
+      },
+      {
+        "unit": "500ml",
+        "price": 55,
+        "discount": "10%"
+      }
+    ]
+  },
+  {
+    "name": "Soy Sauce",
+    "category": "condiments",
+    "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/x5y6z7a8-9b0c-1d2e-3f4g-5h6i7j8k9l0m.jpg",
+    "inStock": true,
+    "description": "Add a rich umami depth to your Asian dishes with our premium Soy Sauce. Essential for stir-fries, marinades, dipping sauces, and sushi, its savory and slightly sweet flavor enhances a variety of cuisines. Made from fermented soybeans, this versatile condiment provides a perfect balance of taste, making it a must-have for your pantry.",
+    "rating": 4.3,
+    "reviews": 50,
+    "variants": [
+      {
+        "unit": "200ml",
+        "price": 80,
+        "discount": "15%"
+      },
+      {
+        "unit": "400ml",
+        "price": 150,
+        "discount": "15%"
+      }
+    ]
+  },
+  {
+    "name": "Ketchup (Tomato)",
+    "category": "condiments",
+    "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/y6z7a8b9-0c1d-2e3f-4g5h-6i7j8k9l0m1n.jpg",
+    "inStock": true,
+    "description": "Our classic Tomato Ketchup is a perfect accompaniment for fries, burgers, pakoras, and much more, offering a delightful balance of tangy and sweet flavors. Made from ripe, juicy tomatoes, its smooth texture and rich taste make it a family favorite. Enhance your meals with this versatile condiment, bringing a burst of deliciousness to every bite.",
+    "rating": 4.6,
+    "reviews": 120,
+    "variants": [
+      {
+        "unit": "200g",
+        "price": 50,
+        "discount": "10%"
+      },
+      {
+        "unit": "500g",
+        "price": 110,
+        "discount": "10%"
+      }
+    ]
+  },
+  {
+    "name": "Jam (Mixed Fruit)",
+    "category": "spreads",
+    "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/583a66bc-8313-4554-89b3-256bcfe7d1e4.jpg?ts=1707312318",
+    "inStock": true,
+    "description": "Brighten your breakfast with our delicious Mixed Fruit Jam, a vibrant blend of assorted fruits that brings a burst of tangy sweetness to your table. Perfect for spreading on toast, parathas, or incorporating into desserts, this jam is made with real fruit pulp, offering a wholesome and delightful experience. Enjoy its rich flavors and smooth texture.",
+    "rating": 4.3,
+    "reviews": 81,
+    "variants": [
+      {
+        "unit": "100g",
+        "price": 65,
+        "discount": "23%"
+      },
+      {
+        "unit": "200g",
+        "price": 130,
+        "discount": "23%"
+      },
+      {
+        "unit": "500g",
+        "price": 325,
+        "discount": "23%"
+      }
+    ]
+  },
+  {
+    "name": "Pickle (Mixed Vegetable)",
+    "category": "condiments",
+    "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/z7a8b9c0-1d2e-3f4g-5h6i-7j8k9l0m1n2o.jpg",
+    "inStock": true,
+    "description": "Add a zesty and spicy kick to your meals with our traditional Mixed Vegetable Pickle, a perfect blend of assorted vegetables and aromatic spices. Ideal as a side with parathas, rice, or curries, its tangy and fiery flavor enhances every bite. Enjoy the authentic taste of homemade pickle, bringing a burst of traditional Indian flavors to your plate.",
+    "rating": 4.0,
+    "reviews": 60,
+    "variants": [
+      {
+        "unit": "250g",
+        "price": 70,
+        "discount": "15%"
+      },
+      {
+        "unit": "500g",
+        "price": 130,
+        "discount": "15%"
+      }
+    ]
+  },
+  {
+    "name": "Chilli Sauce",
+    "category": "condiments",
+    "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/a8b9c0d1-2e3f-4g5h-6i7j-8k9l0m1n2o3p.jpg",
+    "inStock": true,
+    "description": "Ignite your taste buds with our fiery Chilli Sauce, perfect for adding a spicy kick to your favorite dishes. Made from a blend of hot chilies and spices, it's ideal for stir-fries, noodles, snacks, or as a dipping sauce. Enjoy its bold flavor and intense heat, making it a must-have for spice lovers who crave an extra punch in their meals.",
+    "rating": 4.1,
+    "reviews": 65,
+    "variants": [
+      {
+        "unit": "200g",
+        "price": 60,
+        "discount": "10%"
+      },
+      {
+        "unit": "400g",
+        "price": 110,
+        "discount": "10%"
+      }
+    ]
+  },
+  {
+    "name": "Garam Masala",
+    "category": "spices",
+    "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/b9c0d1e2-3f4g-5h6i-7j8k-9l0m1n2o3p4q.jpg",
+    "inStock": true,
+    "description": "Enhance your Indian curries and gravies with our aromatic Garam Masala, a finely ground blend of whole spices that adds a warm and complex flavor. This essential spice mix is perfect for finishing dishes, imparting a rich aroma and authentic taste that elevates any meal. Experience the true essence of Indian cooking with this indispensable ingredient, ensuring a culinary delight.",
+    "rating": 4.7,
+    "reviews": 95,
+    "variants": [
+      {
+        "unit": "50g",
+        "price": 40,
+        "discount": "18%"
+      },
+      {
+        "unit": "100g",
+        "price": 75,
+        "discount": "18%"
+      }
+    ]
+  },
+  {
+    "name": "Fenugreek Seeds (Methi Dana)",
+    "category": "spices",
+    "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/c0d1e2f3-4g5h-6i7j-8k9l-0m1n2o3p4q5r.jpg",
+    "inStock": true,
+    "description": "Our whole Fenugreek Seeds, or Methi Dana, are a classic Indian spice known for their distinctive bitter flavor and aromatic properties. Essential for tempering dals, curries, and pickles, they add a unique depth and warmth to dishes. These seeds also offer various health benefits, making them a valuable addition to your spice cabinet for both taste and wellness.",
+    "rating": 3.8,
+    "reviews": 30,
+    "variants": [
+      {
+        "unit": "100g",
+        "price": 25,
+        "discount": "10%"
+      },
+      {
+        "unit": "250g",
+        "price": 60,
+        "discount": "10%"
+      }
+    ]
+  },
+  {
+    "name": "Poha (Flattened Rice)",
+    "category": "breakfast cereals",
+    "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/d1e2f3g4-5h6i-7j8k-9l0m-1n2o3p4q5r6s.jpg",
+    "inStock": true,
+    "description": "Our light and wholesome Poha, or flattened rice, is a popular choice for a quick and nutritious breakfast or snack. Easy to prepare, it forms the base for traditional Indian dishes like Poha Upma, absorbing flavors beautifully and cooking in minutes. Enjoy this versatile ingredient for a healthy and satisfying start to your day, a truly convenient pantry staple.",
+    "rating": 4.4,
+    "reviews": 70,
+    "variants": [
+      {
+        "unit": "500g",
+        "price": 45,
+        "discount": "12%"
+      },
+      {
+        "unit": "1kg",
+        "price": 85,
+        "discount": "12%"
+      }
+    ]
+  },
+  {
+    "name": "Vermicelli (Seviyan)",
+    "category": "breakfast cereals",
+    "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/e2f3g4h5-6i7j-8k9l-0m1n-2o3p4q5r6s7t.jpg",
+    "inStock": true,
+    "description": "Our fine Vermicelli, or Seviyan, is a versatile ingredient perfect for preparing both sweet and savory dishes. Ideal for delicious kheer, upma, or savory stir-fries, it cooks quickly and absorbs flavors beautifully. Enjoy this convenient and wholesome option for a quick breakfast, light meal, or a traditional dessert, bringing ease and taste to your kitchen.",
+    "rating": 4.2,
+    "reviews": 60,
+    "variants": [
+      {
+        "unit": "150g",
+        "price": 30,
+        "discount": "10%"
+      },
+      {
+        "unit": "300g",
+        "price": 55,
+        "discount": "10%"
+      }
+    ]
+  },
+  {
+    "name": "Cornflakes",
+    "category": "breakfast cereals",
+    "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/f3g4h5i6-7j8k-9l0m-1n2o-3p4q5r6s7t8u.jpg",
+    "inStock": true,
+    "description": "Start your day with a wholesome and crunchy bowl of Cornflakes, a classic breakfast cereal loved for its simple goodness. Made from toasted flakes of corn, it's perfect with milk, fresh fruits, or nuts for a nutritious and energizing meal. Enjoy the satisfying crispness and mild flavor that makes it an ideal choice for a quick and healthy start to your morning.",
+    "rating": 4.5,
+    "reviews": 90,
+    "variants": [
+      {
+        "unit": "250g",
+        "price": 80,
+        "discount": "15%"
+      },
+      {
+        "unit": "500g",
+        "price": 150,
+        "discount": "15%"
+      }
+    ]
+  },
+  {
+    "name": "Oats",
+    "category": "breakfast cereals",
+    "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/g4h5i6j7-8k9l-0m1n-2o3p-4q5r6s7t8u9v.jpg",
+    "inStock": true,
+    "description": "Kickstart your healthy lifestyle with our nutritious Oats, a powerhouse of fiber and essential nutrients. Perfect for a hearty breakfast porridge, overnight oats, or adding to smoothies and baked goods, these whole-grain oats provide sustained energy. Enjoy their creamy texture and wholesome goodness, making them an excellent choice for a balanced and energizing meal.",
+    "rating": 4.6,
+    "reviews": 100,
+    "variants": [
+      {
+        "unit": "500g",
+        "price": 90,
+        "discount": "18%"
+      },
+      {
+        "unit": "1kg",
+        "price": 170,
+        "discount": "18%"
+      }
+    ]
+  },
+  {
+    "name": "Besan (Gram Flour)",
+    "category": "flours & batters",
+    "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/h5i6j7k8-9l0m-1n2o-3p4q-5r6s7t8u9v0w.jpg",
+    "inStock": true,
+    "description": "Our fine Besan, or Gram Flour, is a versatile and essential ingredient in Indian cooking, made from ground chickpeas. Perfect for crispy pakoras, savory dhoklas, delicious cheelas, and traditional sweets like Besan Ladoo, it offers a nutty flavor and rich texture. This protein-rich flour is a staple for a variety of flavorful and wholesome dishes.",
+    "rating": 4.3,
+    "reviews": 80,
+    "variants": [
+      {
+        "unit": "500g",
+        "price": 40,
+        "discount": "10%"
+      },
+      {
+        "unit": "1kg",
+        "price": 75,
+        "discount": "10%"
+      }
+    ]
+  },
+  {
+    "name": "Maida (All-Purpose Flour)",
+    "category": "flours & batters",
+    "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/i6j7k8l9-0m1n-2o3p-4q5r-6s7t8u9v0w1x.jpg",
+    "inStock": true,
+    "description": "Our premium Maida, or All-Purpose Flour, is a versatile baking and cooking essential for your kitchen. Perfect for preparing fluffy cakes, soft breads, crispy puris, and a variety of delicious baked goods, its fine texture ensures smooth batters and doughs. Elevate your culinary creations with this reliable flour, a must-have for all your baking and cooking adventures.",
+    "rating": 4.1,
+    "reviews": 70,
+    "variants": [
+      {
+        "unit": "500g",
+        "price": 30,
+        "discount": "8%"
+      },
+      {
+        "unit": "1kg",
+        "price": 55,
+        "discount": "8%"
+      }
+    ]
+  },
+  {
+    "name": "Baking Powder",
+    "category": "baking essentials",
+    "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/j7k8l9m0-1n2o-3p4q-5r6s-7t8u9v0w1x2y.jpg",
+    "inStock": true,
+    "description": "Ensure perfect rise and fluffy textures in your baked goods with our high-quality Baking Powder. This essential leavening agent is crucial for cakes, muffins, cookies, and other confectionery items, providing consistent results every time. Elevate your baking creations with this reliable ingredient, guaranteeing light and airy delights that everyone will love.",
+    "rating": 4.5,
+    "reviews": 50,
+    "variants": [
+      {
+        "unit": "100g",
+        "price": 40,
+        "discount": "10%"
+      }
+    ]
+  },
+  {
+    "name": "Vanilla Essence",
+    "category": "baking essentials",
+    "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/k8l9m0n1-2o3p-4q5r-6s7t-8u9v0w1x2y3z.jpg",
+    "inStock": true,
+    "description": "Enhance your baked goods and desserts with the sweet, aromatic flavor of our premium Vanilla Essence. A versatile ingredient, it adds a delightful fragrance and rich taste to cakes, cookies, custards, and ice creams. Just a few drops are enough to infuse your creations with a comforting and classic vanilla aroma, elevating your culinary delights.",
+    "rating": 4.4,
+    "reviews": 55,
+    "variants": [
+      {
+        "unit": "20ml",
+        "price": 60,
+        "discount": "12%"
+      },
+      {
+        "unit": "50ml",
+        "price": 120,
+        "discount": "12%"
+      }
+    ]
+  },
+  {
+    "name": "Dish Scrubber",
+    "category": "cleaning tools",
+    "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/l9m0n1o2-3p4q-5r6s-7t8u-9v0w1x2y3z4a.jpg",
+    "inStock": true,
+    "description": "Our durable Dish Scrubber is designed to effectively tackle tough stains and grime on your utensils, making dishwashing easier and more efficient. Its strong abrasive surface effortlessly removes burnt-on food and grease without scratching your cookware. Keep your dishes sparkling clean with this essential kitchen tool, ensuring hygiene and convenience every day.",
+    "rating": 4.2,
+    "reviews": 80,
+    "variants": [
+      {
+        "unit": "1 pc",
+        "price": 20,
+        "discount": "5%"
+      },
+      {
+        "unit": "3 pcs",
+        "price": 55,
+        "discount": "5%"
+      }
+    ]
+  },
+  {
+    "name": "Toilet Cleaner",
+    "category": "cleaning tools",
+    "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/m0n1o2p3-4q5r-6s7t-8u9v-0w1x2y3z4a5b.jpg",
+    "inStock": true,
+    "description": "Ensure a sparkling clean and hygienic bathroom with our powerful Toilet Cleaner. Its advanced formula effectively removes tough stains, kills germs, and eliminates unpleasant odors, leaving your toilet fresh and disinfected. With its convenient angled nozzle, it reaches under the rim for a thorough clean, providing ultimate hygiene and freshness for your home.",
+    "rating": 4.5,
+    "reviews": 90,
+    "variants": [
+      {
+        "unit": "500ml",
+        "price": 99,
+        "discount": "20%"
+      },
+      {
+        "unit": "1L",
+        "price": 190,
+        "discount": "20%"
+      }
+    ]
+  },
+  {
+    "name": "Bleaching Powder",
+    "category": "cleaning",
+    "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/n1o2p3q4-5r6s-7t8u-9v0w-1x2y3z4a5b6c.jpg",
+    "inStock": true,
+    "description": "Our effective Bleaching Powder is a powerful disinfectant and stain remover, perfect for keeping your home clean and germ-free. Ideal for sanitizing surfaces, whitening laundry, and cleaning bathrooms, its strong formula tackles tough stains and eliminates odors. Use it to maintain a hygienic environment, ensuring a fresh and spotless home with every application.",
+    "rating": 4.0,
+    "reviews": 40,
+    "variants": [
+      {
+        "unit": "100g",
+        "price": 25,
+        "discount": "10%"
+      },
+      {
+        "unit": "250g",
+        "price": 55,
+        "discount": "10%"
+      }
+    ]
+  },
+  {
+    "name": "All-Purpose Cleaner",
+    "category": "cleaning",
+    "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/o2p3q4r5-6s7t-8u9v-0w1x-2y3z4a5b6c7d.jpg",
+    "inStock": true,
+    "description": "Simplify your cleaning routine with our versatile All-Purpose Cleaner, designed to tackle dirt, grease, and grime on various surfaces throughout your home. Its powerful formula leaves behind a fresh scent and a streak-free shine, making it ideal for kitchens, bathrooms, and living areas. Enjoy effortless cleaning and a sparkling clean home with this essential solution.",
+    "rating": 4.3,
+    "reviews": 85,
+    "variants": [
+      {
+        "unit": "500ml",
+        "price": 100,
+        "discount": "15%"
+      },
+      {
+        "unit": "1L",
+        "price": 190,
+        "discount": "15%"
+      }
+    ]
+  },
+  {
+    "name": "Hand Sanitizer",
+    "category": "personal care",
+    "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/p3q4r5s6-7t8u-9v0w-1x2y-3z4a5b6c7d8e.jpg",
+    "inStock": true,
+    "description": "Keep your hands clean and germ-free on the go with our effective Hand Sanitizer. Formulated with alcohol, it kills 99.9% of germs without the need for water, leaving your hands feeling refreshed and clean. Perfect for travel, work, or daily use, this essential personal care item provides quick and convenient hygiene whenever you need it.",
+    "rating": 4.6,
+    "reviews": 150,
+    "variants": [
+      {
+        "unit": "50ml",
+        "price": 30,
+        "discount": "10%"
+      },
+      {
+        "unit": "100ml",
+        "price": 55,
+        "discount": "10%"
+      }
+    ]
+  },
+  {
+    "name": "Face Wash",
+    "category": "personal care",
+    "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/q4r5s6t7-8u9v-0w1x-2y3z-4a5b6c7d8e9f.jpg",
+    "inStock": true,
+    "description": "Achieve a fresh and clean complexion with our gentle Face Wash, designed to effectively remove dirt, oil, and impurities without stripping your skin's natural moisture. Its refreshing formula leaves your skin feeling soft, smooth, and revitalized, with a healthy glow. Ideal for daily use, this face wash is perfect for maintaining clear and radiant skin.",
+    "rating": 4.4,
+    "reviews": 110,
+    "variants": [
+      {
+        "unit": "100ml",
+        "price": 90,
+        "discount": "15%"
+      },
+      {
+        "unit": "200ml",
+        "price": 170,
+        "discount": "15%"
+      }
+    ]
+  },
+  {
+    "name": "Hair Oil",
+    "category": "personal care",
+    "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/r5s6t7u8-9v0w-1x2y-3z4a-5b6c7d8e9f0g.jpg",
+    "inStock": true,
+    "description": "Nourish and strengthen your hair with our enriching Hair Oil, a blend of natural oils designed to promote healthy growth and shine. It deeply conditions the scalp, reduces hair fall, and adds a natural luster to your locks. Experience the traditional goodness of hair oiling for strong, beautiful, and lustrous hair that feels soft and revitalized.",
+    "rating": 4.5,
+    "reviews": 125,
+    "variants": [
+      {
+        "unit": "100ml",
+        "price": 80,
+        "discount": "12%"
+      },
+      {
+        "unit": "200ml",
+        "price": 150,
+        "discount": "12%"
+      }
+    ]
+  },
+  {
+    "name": "Mouthwash",
+    "category": "personal care",
+    "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/s6t7u8v9-0w1x-2y3z-4a5b-6c7d8e9f0g1h.jpg",
+    "inStock": true,
+    "description": "Complete your oral hygiene routine with our refreshing Mouthwash, designed to kill germs, freshen breath, and reach areas brushing might miss. Its invigorating formula provides long-lasting freshness and helps maintain a healthy mouth. Experience the confidence of clean breath and improved oral health, making it an essential addition to your daily routine.",
+    "rating": 4.3,
+    "reviews": 95,
+    "variants": [
+      {
+        "unit": "250ml",
+        "price": 90,
+        "discount": "15%"
+      },
+      {
+        "unit": "500ml",
+        "price": 170,
+        "discount": "15%"
+      }
+    ]
+  },
+  {
+    "name": "Toothbrush (Soft)",
+    "category": "personal care",
+    "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/t7u8v9w0-1x2y-3z4a-5b6c-7d8e9f0g1h2i.jpg",
+    "inStock": true,
+    "description": "Ensure gentle yet effective cleaning for your teeth and gums with our Soft Bristle Toothbrush. Designed with delicate bristles, it effectively removes plaque and food particles without causing irritation, making it ideal for sensitive teeth and gums. Experience a thorough and comfortable clean, promoting excellent oral hygiene and a healthy smile every day.",
+    "rating": 4.6,
+    "reviews": 100,
+    "variants": [
+      {
+        "unit": "1 pc",
+        "price": 30,
+        "discount": "8%"
+      },
+      {
+        "unit": "2 pcs",
+        "price": 55,
+        "discount": "8%"
+      }
+    ]
+  },
+  {
+    "name": "Body Wash",
+    "category": "personal care",
+    "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/u8v9w0x1-2y3z-4a5b-6c7d-8e9f0g1h2i3j.jpg",
+    "inStock": true,
+    "description": "Indulge in a refreshing shower experience with our invigorating Body Wash, designed to cleanse and revitalize your skin. Its rich lather and delightful fragrance leave your skin feeling soft, smooth, and deeply moisturized after every wash. Enjoy a luxurious bathing ritual that rejuvenates your senses and leaves you feeling fresh all day long.",
+    "rating": 4.4,
+    "reviews": 115,
+    "variants": [
+      {
+        "unit": "250ml",
+        "price": 120,
+        "discount": "15%"
+      },
+      {
+        "unit": "500ml",
+        "price": 230,
+        "discount": "15%"
+      }
+    ]
+  },
+  {
+    "name": "Rice Flour",
+    "category": "flours & batters",
+    "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/v9w0x1y2-3z4a-5b6c-7d8e-9f0g1h2i3j4k.jpg",
+    "inStock": true,
+    "description": "Our finely ground Rice Flour is a versatile, gluten-free option perfect for a variety of culinary applications. Ideal for making crispy dosas, delicate idlis, crunchy pakoras, and light baking, it provides a unique texture and mild flavor. This flour is a great alternative for those with gluten sensitivities, ensuring delicious and wholesome meals.",
+    "rating": 4.0,
+    "reviews": 50,
+    "variants": [
+      {
+        "unit": "500g",
+        "price": 35,
+        "discount": "10%"
+      },
+      {
+        "unit": "1kg",
+        "price": 65,
+        "discount": "10%"
+      }
+    ]
+  },
+  {
+    "name": "Jowar Flour (Sorghum)",
+    "category": "flours & batters",
+    "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/w0x1y2z3-4a5b-6c7d-8e9f-0g1h2i3j4k5l.jpg",
+    "inStock": true,
+    "description": "Our wholesome Jowar Flour, made from sorghum, is a nutritious and gluten-free flour perfect for traditional Indian rotis and healthy baking. Rich in fiber and essential minerals, it offers a distinct earthy flavor and a satisfying texture. Incorporate this ancient grain into your diet for its health benefits and versatility, making nutritious and delicious meals.",
+    "rating": 4.1,
+    "reviews": 45,
+    "variants": [
+      {
+        "unit": "500g",
+        "price": 50,
+        "discount": "12%"
+      },
+      {
+        "unit": "1kg",
+        "price": 95,
+        "discount": "12%"
+      }
+    ]
+  },
+  {
+    "name": "Ragi Flour (Finger Millet)",
+    "category": "flours & batters",
+    "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/x1y2z3a4-5b6c-7d8e-9f0g-1h2i3j4k5l6m.jpg",
+    "inStock": true,
+    "description": "Our nutritious Ragi Flour, or Finger Millet, is a gluten-free superfood packed with calcium and iron, making it ideal for health-conscious cooking. Perfect for preparing wholesome rotis, porridges, and various baked goods, it offers a unique earthy flavor and a dense texture. Integrate this ancient grain into your diet for its remarkable health benefits and versatile culinary applications.",
+    "rating": 4.2,
+    "reviews": 55,
+    "variants": [
+      {
+        "unit": "500g",
+        "price": 60,
+        "discount": "15%"
+      },
+      {
+        "unit": "1kg",
+        "price": 110,
+        "discount": "15%"
+      }
+    ]
+  },
+  {
+    "name": "Biscotti",
+    "category": "bakery",
+    "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/y2z3a4b5-6c7d-8e9f-0g1h-2i3j4k5l6m7n.jpg",
+    "inStock": true,
+    "description": "Indulge in the delightful crunch of our classic Biscotti, perfectly baked twice for an irresistible texture and rich flavor. Ideal for dipping in coffee, tea, or a glass of milk, these Italian-style cookies offer a satisfying sweetness and a robust aroma. Enjoy them as an elegant snack or a sophisticated dessert, a perfect accompaniment to your favorite hot beverage.",
+    "rating": 4.3,
+    "reviews": 40,
+    "variants": [
+      {
+        "unit": "150g",
+        "price": 90,
+        "discount": "10%"
+      },
+      {
+        "unit": "300g",
+        "price": 170,
+        "discount": "10%"
+      }
+    ]
+  },
+  {
+    "name": "Oatmeal Cookies",
+    "category": "bakery",
+    "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/z3a4b5c6-7d8e-9f0g-1h2i-3j4k5l6m7n8o.jpg",
+    "inStock": true,
+    "description": "Savor the wholesome goodness of our Oatmeal Cookies, baked with nutritious oats and a hint of sweetness for a delightful chewiness. Perfect for a healthy snack or a light breakfast, these cookies offer a satisfying texture and a comforting flavor. Enjoy them with milk or tea, providing a delicious and nourishing treat that satisfies your cravings guilt-free.",
+    "rating": 4.4,
+    "reviews": 60,
+    "variants": [
+      {
+        "unit": "150g",
+        "price": 70,
+        "discount": "15%"
+      },
+      {
+        "unit": "300g",
+        "price": 130,
+        "discount": "15%"
+      }
+    ]
   }
 ]
