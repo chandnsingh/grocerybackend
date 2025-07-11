@@ -49,6 +49,14 @@ const orderSchema = new mongoose.Schema(
           required: true,
           min: 1,
         },
+        image: {
+          type: String, // ✅ Add image field
+          default: "", // optional default
+        },
+        discount: {
+          type: String, // e.g., "10%" or "0%"
+          default: "0%",
+        },
       },
     ],
     totalAmount: {

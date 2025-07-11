@@ -49,6 +49,8 @@ export const placeOrder = async (req, res) => {
         selectedUnit: item.unit,
         price: item.price,
         quantity: item.quantity,
+        image: item.image || "",
+        discount: item.discount || "0%",
       })),
       totalAmount,
     });
@@ -73,5 +75,23 @@ export const getOrdersByUser = async (req, res) => {
   } catch (err) {
     console.error("❌ Fetch orders error:", err);
     res.status(500).json({ message: "Failed to fetch user orders" });
+  }
+};
+
+export const getOrderById = async (req, res) => {
+  try {
+    const order = await Order.findOne({
+      _id: req.params.id,
+      user: req.user._id, // Only allow access to the user's own orders
+    });
+
+    if (!order) {
+      return res.status(404).json({ message: "Order not found" });
+    }
+
+    res.json(order);
+  } catch (error) {
+    console.error("❌ Error fetching order:", error);
+    res.status(500).json({ message: "Server error" });
   }
 };
